@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Saiful Bari on SBMARUF</title>
+    <link>http://sbmaruf.github.io/authors/m-saiful-bari/</link>
+    <description>Recent content in M Saiful Bari on SBMARUF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Sep 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://sbmaruf.github.io/authors/m-saiful-bari/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Analytics: Concepts, Techniques and Applications</title>
+      <link>http://sbmaruf.github.io/publication/data-analytics-book/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0800</pubDate>
+      
+      <guid>http://sbmaruf.github.io/publication/data-analytics-book/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
