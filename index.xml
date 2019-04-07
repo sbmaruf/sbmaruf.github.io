@@ -151,6 +151,216 @@ rm Untitled.md
     </item>
     
     <item>
+      <title>Algorithms-Code-Library.</title>
+      <link>http://sbmaruf.github.io/project/algorithms-code-library/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>http://sbmaruf.github.io/project/algorithms-code-library/</guid>
+      <description>
+
+&lt;p&gt;C++ Implementation of variety of Algorithms and some mush have cheetsheets for CS Students.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/sbmaruf/Algorithms-Code-Library&#34; target=&#34;_blank&#34;&gt;Link to github&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;cheet-sheets&#34;&gt;Cheet Sheets&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sbmaruf/Algorithms-Code-Library/blob/master/Cheet%20Sheets/Trig_Cheat_Sheet.pdf&#34; target=&#34;_blank&#34;&gt;Trigonometry Cheat sheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sbmaruf/Algorithms-Code-Library/blob/master/Cheet%20Sheets/computer_science_cheatsheet.pdf&#34; target=&#34;_blank&#34;&gt;Computer Science Cheat sheet&lt;/a&gt; : Mainly series, algorithm discrete math and calculus based cheat sheet.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sbmaruf/Algorithms-Code-Library/blob/master/Cheet%20Sheets/cheatsheet2014.pdf&#34; target=&#34;_blank&#34;&gt;ICPC Cheatsheet&lt;/a&gt; : Outdated, may be helpful for beginners.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;data-structure&#34;&gt;Data Structure&lt;/h2&gt;
+
+&lt;p&gt;In no particular order,&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;- Binary Indexed tree (BIT)
+- Heavy Light Decomposition (HLD)
+- Histrogram
+- LCA
+- RMQ
+- trie
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;geometry&#34;&gt;Geometry&lt;/h2&gt;
+
+&lt;p&gt;In no particular order,&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;- CircleSegmentTetrahedron
+- Closest Pair
+- ConvexHull
+- ConvexHull GrahamScan 
+- ConvexHull MonotoneChain
+- Parametric Geometry routine
+- Line segment intersection
+- Ray casting algorithm (PointInPolygon)
+- Rotate point
+- Tangent of line
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;graph&#34;&gt;Graph&lt;/h2&gt;
+
+&lt;p&gt;In no particular order,&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;- Stoer Wagner all pair Min Cut
+- Articulation Point
+- Bellman Ford
+- BiConnected Component
+- Bridge
+- Disjoint Set
+- Eular Circuit
+- Hungerian Algorithm
+- Max Weighted Bi-partite Matching
+- MaxFlow Dinic
+- Maximum Bipertite Matching
+- Mincost Max Flow
+- Minimum Expression
+- Dinitz
+- Dinitz With EdgeList
+- Stable marrige problem
+- Strongly Connected Component
+- Tarjans Off line LCA
+- manacher
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;matrix-numeric&#34;&gt;Matrix &amp;amp; Numeric&lt;/h2&gt;
+
+&lt;p&gt;In no particular order,&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;- Big float (C++ library)
+- BigInt
+- FFT
+- Faussian Elimination
+- matrix Exponentiation
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;number-theory-and-math&#34;&gt;Number theory and Math&lt;/h2&gt;
+
+&lt;p&gt;In no particular order,&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;- ExtendedEuclidMOdInverse
+- Hn
+- LinearDiphontine
+- Number Theory Part 1.pdf - Good colelction of Number theoric discussion.
+- NumberTheory Part 2.pdf - Good colelction of Number theoric discussion.
+- PollardRho
+- SegmentedSieve
+- ShankBabyStepGiantStep
+- Sieve
+- josepheous
+- ncr
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;searching&#34;&gt;Searching&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;- Ternary Search
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;string&#34;&gt;String&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;- Aho Chorasik
+- KMP
+- Hashing
+- suffix-array.pdf - Good discussion of suffix-array
+- Suffix array code.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;io&#34;&gt;IO&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;- Fast read C++
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;collected-library&#34;&gt;Collected Library&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sbmaruf/Algorithms-Code-Library/blob/master/Collected%20Library/Stanford%20University%20ACM%20Team%20Notebook.pdf&#34; target=&#34;_blank&#34;&gt;Stanford University ACM Team Notebook&lt;/a&gt; : Outdated, maybe helpful for mid-level/above mid-level problem solver.
+
+&lt;ul&gt;
+&lt;li&gt;Combinatorial optimization1.
+
+&lt;ol&gt;
+&lt;li&gt;Sparse max-flow (C++)&lt;/li&gt;
+&lt;li&gt;Min-cost max-flow (C++)&lt;/li&gt;
+&lt;li&gt;Push-relabel max-flow (C++)&lt;/li&gt;
+&lt;li&gt;Min-cost matching (C++)&lt;/li&gt;
+&lt;li&gt;Max bipartite matching (C++)&lt;/li&gt;
+&lt;li&gt;Global min cut (C++)&lt;/li&gt;
+&lt;li&gt;Graph cut inference (C++)&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Geometry
+
+&lt;ol&gt;
+&lt;li&gt;Convex hull (C++)&lt;/li&gt;
+&lt;li&gt;Miscellaneous geometry (C++)&lt;/li&gt;
+&lt;li&gt;Java geometry (Java)&lt;/li&gt;
+&lt;li&gt;3D geometry (Java)&lt;/li&gt;
+&lt;li&gt;Slow Delaunay triangulation (C++)&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Numerical algorithms
+
+&lt;ol&gt;
+&lt;li&gt;Number theoretic algorithms (modular, Chinese remainder, linear Diophantine) (C++)&lt;/li&gt;
+&lt;li&gt;Systems of linear equations, matrix inverse, determinant (C++)&lt;/li&gt;
+&lt;li&gt;Reduced row echelon form, matrix rank (C++)&lt;/li&gt;
+&lt;li&gt;Fast Fourier transform (C++)&lt;/li&gt;
+&lt;li&gt;Simplex algorithm (C++)&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Graph algorithms
+
+&lt;ol&gt;
+&lt;li&gt;Fast Dijkstra&amp;rsquo;s algorithm (C++)&lt;/li&gt;
+&lt;li&gt;Strongly connected components &amp;copy;&lt;/li&gt;
+&lt;li&gt;Eulerian Path (C++)&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Data structures
+
+&lt;ol&gt;
+&lt;li&gt;Suffix arrays (C++)&lt;/li&gt;
+&lt;li&gt;Binary Indexed Tree&lt;/li&gt;
+&lt;li&gt;Union-Find Set (C/C++)&lt;/li&gt;
+&lt;li&gt;KD-tree (C++)&lt;/li&gt;
+&lt;li&gt;Lazy Segment Tree (Java)&lt;/li&gt;
+&lt;li&gt;Lowest Common Ancestor (C++)&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Miscellaneous
+
+&lt;ol&gt;
+&lt;li&gt;Longest increasing subsequence (C++)&lt;/li&gt;
+&lt;li&gt;Dates (C++)&lt;/li&gt;
+&lt;li&gt;Regular expressions (Java)&lt;/li&gt;
+&lt;li&gt;Prime numbers (C++)&lt;/li&gt;
+&lt;li&gt;C++ input/output&lt;/li&gt;
+&lt;li&gt;Knuth-Morris-Pratt (C++)&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sbmaruf/Algorithms-Code-Library/blob/master/Collected%20Library/Stavropol%20SU%20.pdf&#34; target=&#34;_blank&#34;&gt;Stavropol SU&lt;/a&gt; : Extremely outdated, but worth to look at.
+
+&lt;ul&gt;
+&lt;li&gt;vimrc&lt;/li&gt;
+&lt;li&gt;Java template&lt;/li&gt;
+&lt;li&gt;Combinatorics&lt;/li&gt;
+&lt;li&gt;Number Theory&lt;/li&gt;
+&lt;li&gt;String Algorithms&lt;/li&gt;
+&lt;li&gt;Min-cost max-flow&lt;/li&gt;
+&lt;li&gt;Graph Theory&lt;/li&gt;
+&lt;li&gt;Games&lt;/li&gt;
+&lt;li&gt;Geometry&lt;/li&gt;
+&lt;li&gt;Math&lt;/li&gt;
+&lt;li&gt;Data Structures&lt;/li&gt;
+&lt;li&gt;Miscellanious 13FFT
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Special Thanks: My trainer Tarif Ezaz and my friend Mohammad Abdullah Matin Khan Zarzis to whom I learned to think.&lt;/p&gt;
+
+&lt;p&gt;I also want to mention some of the other special names for their tremendous support. Nafis Ahmed, Mohammad Samiul Islam, Zobayer Hasan, Forhad Ahmed and Leonardo Boshell&lt;/p&gt;
+
+&lt;p&gt;NOTE : I don&amp;rsquo;t claim all of the soutions to be mine. While I was solving the problems, I took help from different peoples and see other people&amp;rsquo;s code for many problems. In Fact most of the coder here is collected. But I never submit any code without my complete understanding. I suugest those who will be following the repo to do so. Pasting code without understanding won&amp;rsquo;t take you any further except frustration.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Malay-English Neural Machine Translation System.</title>
       <link>http://sbmaruf.github.io/project/mt-system/</link>
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0800</pubDate>
