@@ -28,8 +28,96 @@
     
     <url>
     
+      <loc>/publication_types/1/</loc>
+      <lastmod>2019-05-15T00:00:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/pointer-net-parser/</loc>
+      <lastmod>2019-05-15T00:00:00+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+      <lastmod>2019-05-15T00:00:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/m-saiful-bari/</loc>
+      <lastmod>2019-05-15T00:00:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/prathyusha-jwalapuram/</loc>
+      <lastmod>2019-05-15T00:00:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2019-05-15T00:00:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/</loc>
+      <lastmod>2019-05-15T00:00:00+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/shafiq-joty/</loc>
+      <lastmod>2019-05-15T00:00:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2019-05-15T00:00:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/xiang-lin/</loc>
+      <lastmod>2019-05-15T00:00:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/discouse-parsing/</loc>
+      <lastmod>2019-05-15T00:00:00+07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -81,41 +169,6 @@
     
       <loc>/publication/data-analytics-book/</loc>
       <lastmod>2018-09-21T00:00:00+07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/authors/m-saiful-bari/</loc>
-      <lastmod>2018-09-21T00:00:00+07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2018-09-21T00:00:00+07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2018-09-21T00:00:00+07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2018-09-21T00:00:00+07:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
