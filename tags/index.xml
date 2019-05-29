@@ -21,6 +21,24 @@
     </item>
     
     <item>
+      <title>Algorithms</title>
+      <link>/tags/algorithms/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0700</pubDate>
+      
+      <guid>/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0700</pubDate>
+      
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>book</title>
       <link>/tags/book/</link>
       <pubDate>Fri, 21 Sep 2018 00:00:00 +0700</pubDate>
@@ -44,15 +62,6 @@
       <pubDate>Fri, 21 Sep 2018 00:00:00 +0700</pubDate>
       
       <guid>/tags/regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Mon, 12 Jun 2017 00:00:00 +0700</pubDate>
-      
-      <guid>/tags/deep-learning/</guid>
       <description></description>
     </item>
     

@@ -6,15 +6,24 @@
     <description>Recent content in Projects on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jun 2017 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0700</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Algorithms-Code-Library</title>
+      <link>/project/algorithms-code-library/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0700</pubDate>
+      
+      <guid>/project/algorithms-code-library/</guid>
+      <description>C++ implementation of various algorithms.</description>
+    </item>
+    
+    <item>
       <title>Malay-English Neural Machine Translation System.</title>
       <link>/project/mt-system/</link>
-      <pubDate>Mon, 12 Jun 2017 00:00:00 +0700</pubDate>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0700</pubDate>
       
       <guid>/project/mt-system/</guid>
       <description>This is a tool to translate an English sentence into Malay and vice versa.</description>
