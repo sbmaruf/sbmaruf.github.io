@@ -1,90 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     <url>
     
-      <loc>http://sbmaruf.github.io/talk/example/</loc>
-      <lastmod>2030-06-01T13:00:00+08:00</lastmod>
+      <loc>/talk/example/</loc>
+      <lastmod>2030-06-01T13:00:00+07:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>http://sbmaruf.github.io/post/jupyter/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+      <loc>/talk/</loc>
+      <lastmod>2030-06-01T13:00:00+07:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>http://sbmaruf.github.io/post/news/</loc>
-      <lastmod>2019-01-25T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/publication/data-analytics-book/</loc>
-      <lastmod>2018-09-21T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/tutorial/example/</loc>
-      <lastmod>2018-09-09T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/tutorial/</loc>
-      <lastmod>2018-09-09T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/project/algorithms-code-library/</loc>
-      <lastmod>2017-06-12T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/project/mt-system/</loc>
-      <lastmod>2017-06-12T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/author/admin/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/publication_types/6/</loc>
-      <lastmod>2018-09-21T00:00:00+08:00</lastmod>
+      <loc>/</loc>
+      <lastmod>2030-06-01T13:00:00+07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -92,142 +28,7 @@
     
     <url>
     
-      <loc>http://sbmaruf.github.io/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/tags/algorithms/</loc>
-      <lastmod>2017-06-12T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/author/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/authors/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/tags/deep-learning/</loc>
-      <lastmod>2017-06-12T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/authors/m-saiful-bari/</loc>
-      <lastmod>2018-09-21T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/post/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/project/</loc>
-      <lastmod>2017-06-12T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/publication_types/</loc>
-      <lastmod>2018-09-21T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/publication/</loc>
-      <lastmod>2018-09-21T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/talk/</loc>
-      <lastmod>2030-06-01T13:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/</loc>
-      <lastmod>2030-06-01T13:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/slides/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/slides/example-slides/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/tags/</loc>
-      <lastmod>2018-01-13T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://sbmaruf.github.io/authors/admin/</loc>
+      <loc>/authors/</loc>
       <lastmod>2019-02-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -236,8 +37,24 @@
     
     <url>
     
-      <loc>http://sbmaruf.github.io/tags/book/</loc>
-      <lastmod>2018-09-21T00:00:00+08:00</lastmod>
+      <loc>/post/jupyter/</loc>
+      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/admin/</loc>
+      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -245,8 +62,16 @@
     
     <url>
     
-      <loc>http://sbmaruf.github.io/tags/data-analytics/</loc>
-      <lastmod>2018-09-21T00:00:00+08:00</lastmod>
+      <loc>/post/news/</loc>
+      <lastmod>2019-01-25T00:00:00+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/6/</loc>
+      <lastmod>2018-09-21T00:00:00+07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -254,9 +79,167 @@
     
     <url>
     
-      <loc>http://sbmaruf.github.io/tags/regression/</loc>
-      <lastmod>2018-09-21T00:00:00+08:00</lastmod>
+      <loc>/publication/data-analytics-book/</loc>
+      <lastmod>2018-09-21T00:00:00+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/m-saiful-bari/</loc>
+      <lastmod>2018-09-21T00:00:00+07:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2018-09-21T00:00:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/</loc>
+      <lastmod>2018-09-21T00:00:00+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2018-09-21T00:00:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/book/</loc>
+      <lastmod>2018-09-21T00:00:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/data-analytics/</loc>
+      <lastmod>2018-09-21T00:00:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/regression/</loc>
+      <lastmod>2018-09-21T00:00:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tutorial/example/</loc>
+      <lastmod>2018-09-09T00:00:00+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tutorial/</loc>
+      <lastmod>2018-09-09T00:00:00+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/deep-learning/</loc>
+      <lastmod>2017-06-12T00:00:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/mt-system/</loc>
+      <lastmod>2017-06-12T00:00:00+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2017-06-12T00:00:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/academic/</loc>
+      <lastmod>2018-01-13T00:00:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/getting-started/</loc>
+      <lastmod>2018-01-13T00:00:00+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/admin/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/slides/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/slides/example-slides/</loc>
     </url>
     
   

@@ -2,24 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on SBMARUF</title>
-    <link>http://sbmaruf.github.io/talk/</link>
+    <link>/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0700</lastBuildDate>
     
-	<atom:link href="http://sbmaruf.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example Talk</title>
-      <link>http://sbmaruf.github.io/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0800</pubDate>
+      <link>/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0700</pubDate>
       
-      <guid>http://sbmaruf.github.io/talk/example/</guid>
-      <description>Click on the Slides button above to view the built-in slides feature.
-  Slides can be added in a few ways:
- Create slides using Academic&amp;rsquo;s Slides feature and link using url_slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on this page using shortcodes.</description>
+      <guid>/talk/example/</guid>
+      <description>An example talk using Academic&amp;rsquo;s Markdown slides feature.</description>
     </item>
     
   </channel>

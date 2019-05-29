@@ -2,29 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on SBMARUF</title>
-    <link>http://sbmaruf.github.io/authors/</link>
+    <link>/authors/</link>
     <description>Recent content in Authors on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://sbmaruf.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>M Saiful Bari</title>
-      <link>http://sbmaruf.github.io/authors/m-saiful-bari/</link>
-      <pubDate>Fri, 21 Sep 2018 00:00:00 +0800</pubDate>
+      <title>admin</title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://sbmaruf.github.io/authors/m-saiful-bari/</guid>
+      <guid>/authors/admin/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>admin</title>
-      <link>http://sbmaruf.github.io/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <title>M Saiful Bari</title>
+      <link>/authors/m-saiful-bari/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0700</pubDate>
       
-      <guid>http://sbmaruf.github.io/authors/admin/</guid>
+      <guid>/authors/m-saiful-bari/</guid>
       <description></description>
     </item>
     
