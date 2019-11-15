@@ -4,7 +4,7 @@
     <url>
     
       <loc>/talk/example/</loc>
-      <lastmod>2030-06-01T13:00:00+07:00</lastmod>
+      <lastmod>2030-06-01T13:00:00+08:00</lastmod>
     </url>
     
   
@@ -12,7 +12,7 @@
     <url>
     
       <loc>/talk/</loc>
-      <lastmod>2030-06-01T13:00:00+07:00</lastmod>
+      <lastmod>2030-06-01T13:00:00+08:00</lastmod>
     </url>
     
   
@@ -20,7 +20,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2030-06-01T13:00:00+07:00</lastmod>
+      <lastmod>2030-06-01T13:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -29,7 +29,7 @@
     <url>
     
       <loc>/publication_types/1/</loc>
-      <lastmod>2019-05-15T00:00:00+07:00</lastmod>
+      <lastmod>2019-11-14T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -37,16 +37,17 @@
     
     <url>
     
-      <loc>/publication/pointer-net-parser/</loc>
-      <lastmod>2019-05-15T00:00:00+07:00</lastmod>
+      <loc>/authors/</loc>
+      <lastmod>2019-11-14T00:00:00+08:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
     
     <url>
     
-      <loc>/authors/</loc>
-      <lastmod>2019-05-15T00:00:00+07:00</lastmod>
+      <loc>/tags/deep-learning/</loc>
+      <lastmod>2019-11-14T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -55,7 +56,7 @@
     <url>
     
       <loc>/authors/m-saiful-bari/</loc>
-      <lastmod>2019-05-15T00:00:00+07:00</lastmod>
+      <lastmod>2019-11-14T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -64,7 +65,7 @@
     <url>
     
       <loc>/authors/prathyusha-jwalapuram/</loc>
-      <lastmod>2019-05-15T00:00:00+07:00</lastmod>
+      <lastmod>2019-11-14T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -73,7 +74,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2019-05-15T00:00:00+07:00</lastmod>
+      <lastmod>2019-11-14T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -82,7 +83,7 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2019-05-15T00:00:00+07:00</lastmod>
+      <lastmod>2019-11-14T00:00:00+08:00</lastmod>
     </url>
     
   
@@ -90,7 +91,7 @@
     <url>
     
       <loc>/authors/shafiq-joty/</loc>
-      <lastmod>2019-05-15T00:00:00+07:00</lastmod>
+      <lastmod>2019-11-14T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -99,7 +100,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2019-05-15T00:00:00+07:00</lastmod>
+      <lastmod>2019-11-14T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -107,8 +108,24 @@
     
     <url>
     
+      <loc>/publication/cross-lingual-ner/</loc>
+      <lastmod>2019-11-14T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/pointer-net-parser/</loc>
+      <lastmod>2019-05-15T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/xiang-lin/</loc>
-      <lastmod>2019-05-15T00:00:00+07:00</lastmod>
+      <lastmod>2019-05-15T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -117,7 +134,7 @@
     <url>
     
       <loc>/tags/discouse-parsing/</loc>
-      <lastmod>2019-05-15T00:00:00+07:00</lastmod>
+      <lastmod>2019-05-15T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -151,7 +168,7 @@
     <url>
     
       <loc>/tags/algorithms/</loc>
-      <lastmod>2019-01-30T00:00:00+07:00</lastmod>
+      <lastmod>2019-01-30T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -160,7 +177,7 @@
     <url>
     
       <loc>/project/algorithms-code-library/</loc>
-      <lastmod>2019-01-30T00:00:00+07:00</lastmod>
+      <lastmod>2019-01-30T00:00:00+08:00</lastmod>
     </url>
     
   
@@ -168,16 +185,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2019-01-30T00:00:00+07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2019-01-25T00:00:00+07:00</lastmod>
+      <lastmod>2019-01-30T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -186,7 +194,7 @@
     <url>
     
       <loc>/project/mt-system/</loc>
-      <lastmod>2019-01-25T00:00:00+07:00</lastmod>
+      <lastmod>2019-01-25T00:00:00+08:00</lastmod>
     </url>
     
   
@@ -194,7 +202,7 @@
     <url>
     
       <loc>/post/news/</loc>
-      <lastmod>2019-01-25T00:00:00+07:00</lastmod>
+      <lastmod>2019-01-25T00:00:00+08:00</lastmod>
     </url>
     
   
@@ -202,7 +210,7 @@
     <url>
     
       <loc>/publication_types/6/</loc>
-      <lastmod>2018-09-21T00:00:00+07:00</lastmod>
+      <lastmod>2018-09-21T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -211,7 +219,7 @@
     <url>
     
       <loc>/publication/data-analytics-book/</loc>
-      <lastmod>2018-09-21T00:00:00+07:00</lastmod>
+      <lastmod>2018-09-21T00:00:00+08:00</lastmod>
     </url>
     
   
@@ -219,7 +227,7 @@
     <url>
     
       <loc>/tags/book/</loc>
-      <lastmod>2018-09-21T00:00:00+07:00</lastmod>
+      <lastmod>2018-09-21T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -228,7 +236,7 @@
     <url>
     
       <loc>/tags/data-analytics/</loc>
-      <lastmod>2018-09-21T00:00:00+07:00</lastmod>
+      <lastmod>2018-09-21T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -237,7 +245,7 @@
     <url>
     
       <loc>/tags/regression/</loc>
-      <lastmod>2018-09-21T00:00:00+07:00</lastmod>
+      <lastmod>2018-09-21T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -246,7 +254,7 @@
     <url>
     
       <loc>/tutorial/example/</loc>
-      <lastmod>2018-09-09T00:00:00+07:00</lastmod>
+      <lastmod>2018-09-09T00:00:00+08:00</lastmod>
     </url>
     
   
@@ -254,7 +262,7 @@
     <url>
     
       <loc>/tutorial/</loc>
-      <lastmod>2018-09-09T00:00:00+07:00</lastmod>
+      <lastmod>2018-09-09T00:00:00+08:00</lastmod>
     </url>
     
   
@@ -262,7 +270,7 @@
     <url>
     
       <loc>/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+07:00</lastmod>
+      <lastmod>2018-01-13T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -271,7 +279,7 @@
     <url>
     
       <loc>/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+07:00</lastmod>
+      <lastmod>2018-01-13T00:00:00+08:00</lastmod>
     </url>
     
   

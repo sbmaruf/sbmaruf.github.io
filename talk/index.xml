@@ -6,7 +6,7 @@
     <description>Recent content in Recent &amp; Upcoming Talks on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Example Talk</title>
       <link>/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0700</pubDate>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0800</pubDate>
       
       <guid>/talk/example/</guid>
       <description>An example talk using Academic&amp;rsquo;s Markdown slides feature.</description>

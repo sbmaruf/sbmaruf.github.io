@@ -23,16 +23,16 @@
     <item>
       <title>News</title>
       <link>/post/news/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0700</pubDate>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0800</pubDate>
       
       <guid>/post/news/</guid>
-      <description> 2019  15-Jun-2019 A paper accepted on ACL 2019.    25-Jan-2019 Shows MT system to industry and government stakeholders.   15-Jan-2019 Joins NTU-NLP lab as a PhD student.   </description>
+      <description> 2019  11-Nov-2019 A paper accepted on AAAI 2020.    15-Jun-2019 A paper accepted on ACL 2019.    25-Jan-2019 Shows MT system to industry and government stakeholders.   15-Jan-2019 Joins NTU-NLP lab as a PhD student.   </description>
     </item>
     
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>Create a beautifully simple website or blog in under 10 minutes.</description>

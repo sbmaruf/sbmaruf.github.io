@@ -6,15 +6,24 @@
     <description>Recent content in Publications on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 May 2019 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Zero-Resource Cross-Lingual Named Entity Recognition</title>
+      <link>/publication/cross-lingual-ner/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/cross-lingual-ner/</guid>
+      <description>We propose a superior model and training method for zero resource transfer of Cross-lingual Named Entity Recognition.</description>
+    </item>
+    
+    <item>
       <title>A Unified Linear-Time Framework for Sentence-Level Discourse Parsing</title>
       <link>/publication/pointer-net-parser/</link>
-      <pubDate>Wed, 15 May 2019 00:00:00 +0700</pubDate>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0800</pubDate>
       
       <guid>/publication/pointer-net-parser/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>Data Analytics: Concepts, Techniques and Applications</title>
       <link>/publication/data-analytics-book/</link>
-      <pubDate>Fri, 21 Sep 2018 00:00:00 +0700</pubDate>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0800</pubDate>
       
       <guid>/publication/data-analytics-book/</guid>
       <description>This book chapter goes through various aspects of regression and maths behind them.</description>

@@ -5,13 +5,13 @@
     <description>Recent content in SBMARUF on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Example Talk</title>
       <link>/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0700</pubDate>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0800</pubDate>
       
       <guid>/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
@@ -35,9 +35,18 @@ Click on the **Slides** button above to view the built-in slides feature.
     </item>
     
     <item>
+      <title>Zero-Resource Cross-Lingual Named Entity Recognition</title>
+      <link>/publication/cross-lingual-ner/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/cross-lingual-ner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Unified Linear-Time Framework for Sentence-Level Discourse Parsing</title>
       <link>/publication/pointer-net-parser/</link>
-      <pubDate>Wed, 15 May 2019 00:00:00 +0700</pubDate>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0800</pubDate>
       
       <guid>/publication/pointer-net-parser/</guid>
       <description></description>
@@ -109,7 +118,7 @@ rm Untitled.md
     <item>
       <title>Algorithms-Code-Library</title>
       <link>/project/algorithms-code-library/</link>
-      <pubDate>Wed, 30 Jan 2019 00:00:00 +0700</pubDate>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0800</pubDate>
       
       <guid>/project/algorithms-code-library/</guid>
       <description>
@@ -315,7 +324,7 @@ rm Untitled.md
     <item>
       <title>Malay-English Neural Machine Translation System.</title>
       <link>/project/mt-system/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0700</pubDate>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0800</pubDate>
       
       <guid>/project/mt-system/</guid>
       <description>&lt;p&gt;This is a tool to translate an English sentence into Malay and vice versa. Developing a translation tool for low-resource languages like Malay has always been a challenge. The main challenge comes from the fact that machine translation systems typically rely on a huge amount of sentence-parallel data, and creating such datasets is an expensive process. In our work, we collected parallel datasets from various sources including News, OpenSubtitiles (OPUS), Ted talks, and Youtube video. Therefore, our corpus is quite generic and covers both texts and conversations.&lt;/p&gt;
@@ -332,7 +341,7 @@ rm Untitled.md
     <item>
       <title>News</title>
       <link>/post/news/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0700</pubDate>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0800</pubDate>
       
       <guid>/post/news/</guid>
       <description>
@@ -340,6 +349,10 @@ rm Untitled.md
 &lt;h1 id=&#34;2019&#34;&gt;2019&lt;/h1&gt;
 
 &lt;table class=&#34;tg&#34;&gt;
+  &lt;tr&gt;
+    &lt;th class=&#34;tg-s268&#34;&gt;11-Nov-2019&lt;/th&gt;
+    &lt;th class=&#34;tg-s268&#34;&gt;A  paper accepted on AAAI 2020. &lt;/th&gt;
+  &lt;/tr&gt;
   &lt;tr&gt;
     &lt;th class=&#34;tg-s268&#34;&gt;15-Jun-2019&lt;/th&gt;
     &lt;th class=&#34;tg-s268&#34;&gt;A  &lt;a href=&#34;https://arxiv.org/abs/1905.05682&#34;&gt;paper&lt;/a&gt; accepted on ACL 2019. &lt;/th&gt;
@@ -359,7 +372,7 @@ rm Untitled.md
     <item>
       <title>Data Analytics: Concepts, Techniques and Applications</title>
       <link>/publication/data-analytics-book/</link>
-      <pubDate>Fri, 21 Sep 2018 00:00:00 +0700</pubDate>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0800</pubDate>
       
       <guid>/publication/data-analytics-book/</guid>
       <description></description>
@@ -368,7 +381,7 @@ rm Untitled.md
     <item>
       <title>Example Page</title>
       <link>/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0700</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0800</pubDate>
       
       <guid>/tutorial/example/</guid>
       <description>
@@ -388,7 +401,7 @@ rm Untitled.md
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>
