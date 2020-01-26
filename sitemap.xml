@@ -3,31 +3,6 @@
     
     <url>
     
-      <loc>/talk/example/</loc>
-      <lastmod>2030-06-01T13:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2030-06-01T13:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2030-06-01T13:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/publication_types/1/</loc>
       <lastmod>2019-11-14T00:00:00+08:00</lastmod>
       <priority>0</priority>
@@ -90,6 +65,15 @@
     
     <url>
     
+      <loc>/</loc>
+      <lastmod>2019-11-14T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/shafiq-joty/</loc>
       <lastmod>2019-11-14T00:00:00+08:00</lastmod>
       <priority>0</priority>
@@ -110,6 +94,30 @@
     
       <loc>/publication/cross-lingual-ner/</loc>
       <lastmod>2019-11-14T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/</loc>
+      <lastmod>2019-08-05T15:30:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/semi-sup/</loc>
+      <lastmod>2019-08-05T15:30:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/transformer-xl/</loc>
+      <lastmod>2019-07-05T15:30:00+00:00</lastmod>
     </url>
     
   
@@ -263,6 +271,38 @@
     
       <loc>/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/idcnn/</loc>
+      <lastmod>2018-04-25T11:30:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/attention/</loc>
+      <lastmod>2018-03-21T11:30:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/encode-decode-architecture/</loc>
+      <lastmod>2018-03-14T10:30:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/structure-of-rnn-cells/</loc>
+      <lastmod>2018-03-07T14:00:00+00:00</lastmod>
     </url>
     
   
