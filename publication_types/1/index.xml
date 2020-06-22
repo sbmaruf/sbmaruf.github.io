@@ -6,10 +6,28 @@
     <description>Recent content in 1 on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MultiMix: A Robust Data Augmentation Framework for Cross-Lingual NLP</title>
+      <link>/publication/multimix/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/multimix/</guid>
+      <description>We propose MultiMix, a novel data augmentation framework for self-supervised learning in zero-resource transfer learning scenarios.</description>
+    </item>
+    
+    <item>
+      <title>LNMAP: Departures from Isomorphic Assumption in Bilingual Lexicon Induction Through Non-Linear Mapping in Latent Space</title>
+      <link>/publication/lnmap/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/lnmap/</guid>
+      <description>We propose a novel semi-supervised method to learn cross-lingual word embeddings for BLI.</description>
+    </item>
     
     <item>
       <title>Zero-Resource Cross-Lingual Named Entity Recognition</title>

@@ -4,7 +4,7 @@
     <url>
     
       <loc>/publication_types/1/</loc>
-      <lastmod>2019-11-14T00:00:00+08:00</lastmod>
+      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -13,7 +13,7 @@
     <url>
     
       <loc>/authors/</loc>
-      <lastmod>2019-11-14T00:00:00+08:00</lastmod>
+      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -22,7 +22,7 @@
     <url>
     
       <loc>/tags/deep-learning/</loc>
-      <lastmod>2019-11-14T00:00:00+08:00</lastmod>
+      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -31,7 +31,128 @@
     <url>
     
       <loc>/authors/m-saiful-bari/</loc>
-      <lastmod>2019-11-14T00:00:00+08:00</lastmod>
+      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/multimix/</loc>
+      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/</loc>
+      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/shafiq-joty/</loc>
+      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/tasnim-mohiuddin/</loc>
+      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/cross-lingual/</loc>
+      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/language-model/</loc>
+      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/lnmap/</loc>
+      <lastmod>2020-04-28T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/word-embedding/</loc>
+      <lastmod>2020-04-28T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/</loc>
+      <lastmod>2020-04-25T11:30:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/mbart/</loc>
+      <lastmod>2020-04-25T11:30:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/machine-translation/</loc>
+      <lastmod>2020-04-25T11:30:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -48,60 +169,8 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
-      <lastmod>2019-11-14T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2019-11-14T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2019-11-14T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/authors/shafiq-joty/</loc>
-      <lastmod>2019-11-14T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2019-11-14T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/publication/cross-lingual-ner/</loc>
       <lastmod>2019-11-14T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2019-08-05T15:30:00+00:00</lastmod>
     </url>
     
   
@@ -116,8 +185,26 @@
     
     <url>
     
+      <loc>/tags/semi-sup-learning/</loc>
+      <lastmod>2019-08-05T15:30:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/talk/transformer-xl/</loc>
       <lastmod>2019-07-05T15:30:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/architecture/</loc>
+      <lastmod>2019-07-05T15:30:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   

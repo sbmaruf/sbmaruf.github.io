@@ -6,7 +6,7 @@
     <description>Recent content in Authors on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>M Saiful Bari</title>
       <link>/authors/m-saiful-bari/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0800</pubDate>
       
       <guid>/authors/m-saiful-bari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shafiq Joty</title>
+      <link>/authors/shafiq-joty/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/shafiq-joty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tasnim Mohiuddin</title>
+      <link>/authors/tasnim-mohiuddin/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/tasnim-mohiuddin/</guid>
       <description></description>
     </item>
     
@@ -26,15 +44,6 @@
       <pubDate>Thu, 14 Nov 2019 00:00:00 +0800</pubDate>
       
       <guid>/authors/prathyusha-jwalapuram/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shafiq Joty</title>
-      <link>/authors/shafiq-joty/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 +0800</pubDate>
-      
-      <guid>/authors/shafiq-joty/</guid>
       <description></description>
     </item>
     

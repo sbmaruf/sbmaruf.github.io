@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>semi-sup-learning on SBMARUF</title>
+    <link>/tags/semi-sup-learning/</link>
+    <description>Recent content in semi-sup-learning on SBMARUF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Aug 2019 15:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/semi-sup-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Semi-Supervised Training</title>
+      <link>/talk/semi-sup/</link>
+      <pubDate>Mon, 05 Aug 2019 15:30:00 +0000</pubDate>
+      
+      <guid>/talk/semi-sup/</guid>
+      <description>This talk summarizes the paper &lt;a href=&#34;https://arxiv.org/abs/1710.09412&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;mixup&lt;/code&gt;&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/1905.02249&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;MixMatch&lt;/code&gt;&lt;/a&gt;, &lt;a href=&#34;https://openreview.net/pdf?id=HJgExaVtwr&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;DivideMix&lt;/code&gt;&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/1904.12848&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;UDA&lt;/code&gt;&lt;/a&gt;.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,7 +6,7 @@
     <description>Recent content in Tags on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,63 @@
     <item>
       <title>Deep Learning</title>
       <link>/tags/deep-learning/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0800</pubDate>
       
       <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cross-lingual</title>
+      <link>/tags/cross-lingual/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/cross-lingual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language-model</title>
+      <link>/tags/language-model/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/language-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>word-embedding</title>
+      <link>/tags/word-embedding/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/word-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-translation</title>
+      <link>/tags/machine-translation/</link>
+      <pubDate>Sat, 25 Apr 2020 11:30:00 +0000</pubDate>
+      
+      <guid>/tags/machine-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>semi-sup-learning</title>
+      <link>/tags/semi-sup-learning/</link>
+      <pubDate>Mon, 05 Aug 2019 15:30:00 +0000</pubDate>
+      
+      <guid>/tags/semi-sup-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>architecture</title>
+      <link>/tags/architecture/</link>
+      <pubDate>Fri, 05 Jul 2019 15:30:00 +0000</pubDate>
+      
+      <guid>/tags/architecture/</guid>
       <description></description>
     </item>
     
