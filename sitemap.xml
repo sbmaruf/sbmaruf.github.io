@@ -21,6 +21,15 @@
     
     <url>
     
+      <loc>/tags/deep-learning/</loc>
+      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/m-saiful-bari/</loc>
       <lastmod>2020-04-30T00:00:00+08:00</lastmod>
       <priority>0</priority>
@@ -92,15 +101,6 @@
     <url>
     
       <loc>/tags/cross-lingual/</loc>
-      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/deep-learning/</loc>
       <lastmod>2020-04-30T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
