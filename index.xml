@@ -1,37 +1,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SBMARUF on SBMARUF</title>
-    <link>/</link>
+    <link>https://sbmaruf.github.io/</link>
     <description>Recent content in SBMARUF on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>MultiMix: A Robust Data Augmentation Framework for Cross-Lingual NLP</title>
-      <link>/publication/multimix/</link>
+      <title>AugVic: Exploiting BiText Vicinity for Low-Resource NMT</title>
+      <link>https://sbmaruf.github.io/publication/augvic/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/augvic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UXLA: A Robust Unsupervised Data Augmentation Framework for Zero-Resouce Cross-Lingual NLP</title>
+      <link>https://sbmaruf.github.io/publication/uxla/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0800</pubDate>
       
-      <guid>/publication/multimix/</guid>
+      <guid>https://sbmaruf.github.io/publication/uxla/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LNMAP: Departures from Isomorphic Assumption in Bilingual Lexicon Induction Through Non-Linear Mapping in Latent Space</title>
-      <link>/publication/lnmap/</link>
+      <link>https://sbmaruf.github.io/publication/lnmap/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0800</pubDate>
       
-      <guid>/publication/lnmap/</guid>
+      <guid>https://sbmaruf.github.io/publication/lnmap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mBART: pretraining seq2seq architecture</title>
-      <link>/talk/mbart/</link>
+      <link>https://sbmaruf.github.io/talk/mbart/</link>
       <pubDate>Sat, 25 Apr 2020 11:30:00 +0000</pubDate>
       
-      <guid>/talk/mbart/</guid>
+      <guid>https://sbmaruf.github.io/talk/mbart/</guid>
       <description>&lt;p&gt;This talk goes though the pretraining objectives of seq2seq architecture. It also discusses, how mBART is different from pretraining of XLM and it&amp;rsquo;s derivatives?&lt;/p&gt;
 
 &lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -55,19 +64,19 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     
     <item>
       <title>Zero-Resource Cross-Lingual Named Entity Recognition</title>
-      <link>/publication/cross-lingual-ner/</link>
+      <link>https://sbmaruf.github.io/publication/cross-lingual-ner/</link>
       <pubDate>Thu, 14 Nov 2019 00:00:00 +0800</pubDate>
       
-      <guid>/publication/cross-lingual-ner/</guid>
+      <guid>https://sbmaruf.github.io/publication/cross-lingual-ner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semi-Supervised Training</title>
-      <link>/talk/semi-sup/</link>
+      <link>https://sbmaruf.github.io/talk/semi-sup/</link>
       <pubDate>Mon, 05 Aug 2019 15:30:00 +0000</pubDate>
       
-      <guid>/talk/semi-sup/</guid>
+      <guid>https://sbmaruf.github.io/talk/semi-sup/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     
@@ -89,10 +98,10 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     
     <item>
       <title>Transforme-XL</title>
-      <link>/talk/transformer-xl/</link>
+      <link>https://sbmaruf.github.io/talk/transformer-xl/</link>
       <pubDate>Fri, 05 Jul 2019 15:30:00 +0000</pubDate>
       
-      <guid>/talk/transformer-xl/</guid>
+      <guid>https://sbmaruf.github.io/talk/transformer-xl/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     
@@ -114,19 +123,19 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     
     <item>
       <title>A Unified Linear-Time Framework for Sentence-Level Discourse Parsing</title>
-      <link>/publication/pointer-net-parser/</link>
+      <link>https://sbmaruf.github.io/publication/pointer-net-parser/</link>
       <pubDate>Wed, 15 May 2019 00:00:00 +0800</pubDate>
       
-      <guid>/publication/pointer-net-parser/</guid>
+      <guid>https://sbmaruf.github.io/publication/pointer-net-parser/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
+      <link>https://sbmaruf.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/jupyter/</guid>
+      <guid>https://sbmaruf.github.io/post/jupyter/</guid>
       <description>
 
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
@@ -186,10 +195,10 @@ rm Untitled.md
     
     <item>
       <title>Algorithms-Code-Library</title>
-      <link>/project/algorithms-code-library/</link>
+      <link>https://sbmaruf.github.io/project/algorithms-code-library/</link>
       <pubDate>Wed, 30 Jan 2019 00:00:00 +0800</pubDate>
       
-      <guid>/project/algorithms-code-library/</guid>
+      <guid>https://sbmaruf.github.io/project/algorithms-code-library/</guid>
       <description>
 
 &lt;p&gt;C++ Implementation of variety of Algorithms and some mush have cheetsheets for CS Students.&lt;/p&gt;
@@ -391,11 +400,46 @@ rm Untitled.md
     </item>
     
     <item>
-      <title>Malay-English Neural Machine Translation System.</title>
-      <link>/project/mt-system/</link>
+      <title>HONORS &amp; AWARDS</title>
+      <link>https://sbmaruf.github.io/post/awards/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0800</pubDate>
       
-      <guid>/project/mt-system/</guid>
+      <guid>https://sbmaruf.github.io/post/awards/</guid>
+      <description>&lt;table class=&#34;tg&#34;&gt;
+  &lt;tr&gt;
+    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;2012&lt;/th&gt;
+    &lt;th class=&#34;tg-s268&#34;&gt;&lt;a href=&#34;https://https://www.oic-oci.org/&#34;&gt;OIC&lt;/a&gt; Scholarship for undergraduate study, &lt;a href=&#34;https://www.iutoic-dhaka.edu/&#34;&gt;Islamic University of Technology&lt;/a&gt;. &lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;2014&lt;/th&gt;
+    &lt;th class=&#34;tg-s268&#34;&gt;Champion, IUT Computer Programming Contest. &lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;2014&lt;/th&gt;
+    &lt;th class=&#34;tg-s268&#34;&gt;Honorable Mention, Human Expedition on Mars Timeline 2018. &lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;2016&lt;/th&gt;
+    &lt;th class=&#34;tg-s268&#34;&gt;2&lt;sup&gt;nd&lt;/sup&gt;/100 in Inter University Programming Contest, Daffodill International University ACM ICPC world finals warmup contest 2016 &lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;2016&lt;/th&gt;
+    &lt;th class=&#34;tg-s268&#34;&gt;6&lt;sup&gt;th&lt;/sup&gt;/100+ in Inter University Programming Contest, NSU Cybernauts National Programming Contest &lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;2019&lt;/th&gt;
+    &lt;th class=&#34;tg-s268&#34;&gt;&lt;a href=&#34;https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/rss&#34;&gt;NTU Research Scholarship&lt;/a&gt;, Fully funded Ph.D. scholarship for 4 years. &lt;/th&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Malay-English Neural Machine Translation System.</title>
+      <link>https://sbmaruf.github.io/project/mt-system/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/project/mt-system/</guid>
       <description>&lt;p&gt;This is a tool to translate an English sentence into Malay and vice versa. Developing a translation tool for low-resource languages like Malay has always been a challenge. The main challenge comes from the fact that machine translation systems typically rely on a huge amount of sentence-parallel data, and creating such datasets is an expensive process. In our work, we collected parallel datasets from various sources including News, OpenSubtitiles (OPUS), Ted talks, and Youtube video. Therefore, our corpus is quite generic and covers both texts and conversations.&lt;/p&gt;
 
 &lt;p&gt;We used various state of the art deep &lt;strong&gt;Neural Machine Translation&lt;/strong&gt; (NMT) architecture for training our model. More specifically we use both &lt;strong&gt;seq2seq&lt;/strong&gt; and &lt;strong&gt;transformer-net&lt;/strong&gt; architecture for finding our best model. For pre-processing and post-processing datasets we used various tools of &lt;strong&gt;moses&lt;/strong&gt;. To train our model we used &lt;strong&gt;OpenNMT-py&lt;/strong&gt; framework which is very standard in the NMT community for it&amp;rsquo;s robust and modular implementation.&lt;/p&gt;
@@ -409,15 +453,25 @@ rm Untitled.md
     
     <item>
       <title>News</title>
-      <link>/post/news/</link>
+      <link>https://sbmaruf.github.io/post/news/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0800</pubDate>
       
-      <guid>/post/news/</guid>
+      <guid>https://sbmaruf.github.io/post/news/</guid>
       <description>
+
+&lt;h1 id=&#34;2021&#34;&gt;2021&lt;/h1&gt;
+
+&lt;table class=&#34;tg&#34;&gt;
+  &lt;tr&gt;
+    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;5-May&lt;/th&gt;
+    &lt;th class=&#34;tg-s268&#34;&gt;Two paper got accepted in &lt;a href=&#34;https://2021.aclweb.org/&#34;&gt;ACL-IJCNLP-2021 &lt;/a&gt;. &lt;/th&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
 
 &lt;h1 id=&#34;2020&#34;&gt;2020&lt;/h1&gt;
 
 &lt;table class=&#34;tg&#34;&gt;
+ 
   &lt;tr&gt;
     &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;6-Nov&lt;/th&gt;
     &lt;th class=&#34;tg-s268&#34;&gt;Get back to the PhD study after completing my internship with &lt;a href=&#34;https://aws.amazon.com/lex/&#34;&gt;Amazon Lex Team&lt;/a&gt;. &lt;/th&gt;
@@ -453,14 +507,10 @@ rm Untitled.md
     &lt;th class=&#34;tg-s268&#34;&gt;Presenting &lt;a href=&#34;https://arxiv.org/abs/1911.09812&#34;&gt;our Cross-lingual-NER&lt;/a&gt; paper on AAAI-2020. &lt;/th&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;14-Dec&lt;/th&gt;
+    &lt;th class=&#34;tg-s268&#34;&gt;4-Jan&lt;/th&gt;
     &lt;th class=&#34;tg-s268&#34;&gt;Got AAAI-2020 travel scholarship. See you in New York. &lt;/th&gt;
   &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;11-Nov&lt;/th&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/1911.09812&#34;&gt;A  paper&lt;/a&gt; accepted on &lt;a href=&#34;https://aaai.org/Conferences/AAAI-20/&#34;&gt;AAAI 2020.&lt;/a&gt; &lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;/table&gt;
+&lt;/table&gt;
 
 &lt;h1 id=&#34;2019&#34;&gt;2019&lt;/h1&gt;
 
@@ -491,19 +541,19 @@ rm Untitled.md
     
     <item>
       <title>Data Analytics: Concepts, Techniques and Applications</title>
-      <link>/publication/data-analytics-book/</link>
+      <link>https://sbmaruf.github.io/publication/data-analytics-book/</link>
       <pubDate>Fri, 21 Sep 2018 00:00:00 +0800</pubDate>
       
-      <guid>/publication/data-analytics-book/</guid>
+      <guid>https://sbmaruf.github.io/publication/data-analytics-book/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Page</title>
-      <link>/tutorial/example/</link>
+      <link>https://sbmaruf.github.io/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0800</pubDate>
       
-      <guid>/tutorial/example/</guid>
+      <guid>https://sbmaruf.github.io/tutorial/example/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -515,58 +565,6 @@ rm Untitled.md
 &lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
 
 &lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Iterated Dilated Convolutions for NLP - NER as an example</title>
-      <link>/talk/idcnn/</link>
-      <pubDate>Wed, 25 Apr 2018 11:30:00 +0000</pubDate>
-      
-      <guid>/talk/idcnn/</guid>
-      <description>&lt;p&gt;Special thanks to the author Emma Strubell for replying some of the query by mail.&lt;/p&gt;
-
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    
-Click on the **Slides** button above to view the built-in slides feature.
-
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-
-&lt;!-- Slides can be added in a few ways:
-
-- **Create** slides using Academic&#39;s *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Attention Mechanism</title>
-      <link>/talk/attention/</link>
-      <pubDate>Wed, 21 Mar 2018 11:30:00 +0000</pubDate>
-      
-      <guid>/talk/attention/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    
-Click on the **Slides** button above to view the built-in slides feature.
-
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-
-&lt;!-- Slides can be added in a few ways:
-
-- **Create** slides using Academic&#39;s *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     

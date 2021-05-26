@@ -2,39 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on SBMARUF</title>
-    <link>/post/</link>
+    <link>https://sbmaruf.github.io/post/</link>
     <description>Recent content in Posts on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sbmaruf.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
+      <link>https://sbmaruf.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/jupyter/</guid>
+      <guid>https://sbmaruf.github.io/post/jupyter/</guid>
       <description>Learn how to blog in Academic using Jupyter notebooks</description>
     </item>
     
     <item>
-      <title>News</title>
-      <link>/post/news/</link>
+      <title>HONORS &amp; AWARDS</title>
+      <link>https://sbmaruf.github.io/post/awards/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0800</pubDate>
       
-      <guid>/post/news/</guid>
-      <description>2020  6-Nov Get back to the PhD study after completing my internship with Amazon Lex Team.    15-Oct Our paper LNMap is accepted in EMNLP-2020.    03-Aug I will be starting my internship at Amazon, with Lex Team.    28-Aug Passed my PhD Qualifying Examination (QE).    28-Apr Preprint of our new paper LNMap released in Arxiv.    24-Apr Preprint of our new paper MultiMix released in Arxiv.</description>
+      <guid>https://sbmaruf.github.io/post/awards/</guid>
+      <description>2012 OIC Scholarship for undergraduate study, Islamic University of Technology.    2014 Champion, IUT Computer Programming Contest.    2014 Honorable Mention, Human Expedition on Mars Timeline 2018.    2016 2nd/100 in Inter University Programming Contest, Daffodill International University ACM ICPC world finals warmup contest 2016    2016 6th/100+ in Inter University Programming Contest, NSU Cybernauts National Programming Contest    2019 NTU Research Scholarship, Fully funded Ph.</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://sbmaruf.github.io/post/news/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/post/news/</guid>
+      <description>2021  5-May Two paper got accepted in ACL-IJCNLP-2021 .    2020  6-Nov Get back to the PhD study after completing my internship with Amazon Lex Team.    15-Oct Our paper LNMap is accepted in EMNLP-2020.    03-Aug I will be starting my internship at Amazon, with Lex Team.    28-Aug Passed my PhD Qualifying Examination (QE).    28-Apr Preprint of our new paper LNMap released in Arxiv.</description>
     </item>
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>https://sbmaruf.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>/post/getting-started/</guid>
+      <guid>https://sbmaruf.github.io/post/getting-started/</guid>
       <description>Create a beautifully simple website or blog in under 10 minutes.</description>
     </item>
     

@@ -2,48 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on SBMARUF</title>
-    <link>/publication_types/1/</link>
+    <link>https://sbmaruf.github.io/publication_types/1/</link>
     <description>Recent content in 1 on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sbmaruf.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>MultiMix: A Robust Data Augmentation Framework for Cross-Lingual NLP</title>
-      <link>/publication/multimix/</link>
+      <title>AugVic: Exploiting BiText Vicinity for Low-Resource NMT</title>
+      <link>https://sbmaruf.github.io/publication/augvic/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/augvic/</guid>
+      <description>We propose AugVic, a data augmentation framework for sequence to sequence model (i.e. NMT) using Language Model.</description>
+    </item>
+    
+    <item>
+      <title>UXLA: A Robust Unsupervised Data Augmentation Framework for Zero-Resouce Cross-Lingual NLP</title>
+      <link>https://sbmaruf.github.io/publication/uxla/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0800</pubDate>
       
-      <guid>/publication/multimix/</guid>
-      <description>We propose MultiMix, a novel data augmentation framework for self-supervised learning in zero-resource transfer learning scenarios.</description>
+      <guid>https://sbmaruf.github.io/publication/uxla/</guid>
+      <description>We propose UXLA, a novel data augmentation framework for self-supervised learning in zero-resource transfer learning scenarios.</description>
     </item>
     
     <item>
       <title>LNMAP: Departures from Isomorphic Assumption in Bilingual Lexicon Induction Through Non-Linear Mapping in Latent Space</title>
-      <link>/publication/lnmap/</link>
+      <link>https://sbmaruf.github.io/publication/lnmap/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0800</pubDate>
       
-      <guid>/publication/lnmap/</guid>
+      <guid>https://sbmaruf.github.io/publication/lnmap/</guid>
       <description>We propose a novel semi-supervised method to learn cross-lingual word embeddings for BLI.</description>
     </item>
     
     <item>
       <title>Zero-Resource Cross-Lingual Named Entity Recognition</title>
-      <link>/publication/cross-lingual-ner/</link>
+      <link>https://sbmaruf.github.io/publication/cross-lingual-ner/</link>
       <pubDate>Thu, 14 Nov 2019 00:00:00 +0800</pubDate>
       
-      <guid>/publication/cross-lingual-ner/</guid>
+      <guid>https://sbmaruf.github.io/publication/cross-lingual-ner/</guid>
       <description>We propose a superior model and training method for zero resource transfer of Cross-lingual Named Entity Recognition.</description>
     </item>
     
     <item>
       <title>A Unified Linear-Time Framework for Sentence-Level Discourse Parsing</title>
-      <link>/publication/pointer-net-parser/</link>
+      <link>https://sbmaruf.github.io/publication/pointer-net-parser/</link>
       <pubDate>Wed, 15 May 2019 00:00:00 +0800</pubDate>
       
-      <guid>/publication/pointer-net-parser/</guid>
+      <guid>https://sbmaruf.github.io/publication/pointer-net-parser/</guid>
       <description></description>
     </item>
     

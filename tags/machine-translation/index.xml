@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>machine-translation on SBMARUF</title>
-    <link>/tags/machine-translation/</link>
+    <link>https://sbmaruf.github.io/tags/machine-translation/</link>
     <description>Recent content in machine-translation on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Apr 2020 11:30:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/machine-translation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sbmaruf.github.io/tags/machine-translation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>mBART: pretraining seq2seq architecture</title>
-      <link>/talk/mbart/</link>
+      <link>https://sbmaruf.github.io/talk/mbart/</link>
       <pubDate>Sat, 25 Apr 2020 11:30:00 +0000</pubDate>
       
-      <guid>/talk/mbart/</guid>
+      <guid>https://sbmaruf.github.io/talk/mbart/</guid>
       <description>This talk summarizes the paper &lt;a href=&#34;https://arxiv.org/abs/2001.08210&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;mBART&lt;/code&gt;&lt;/a&gt; and some pretraining concepts.</description>
     </item>
     

@@ -3,8 +3,8 @@
     
     <url>
     
-      <loc>/publication_types/1/</loc>
-      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+      <loc>https://sbmaruf.github.io/publication_types/1/</loc>
+      <lastmod>2021-05-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -12,8 +12,16 @@
     
     <url>
     
-      <loc>/authors/</loc>
-      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+      <loc>https://sbmaruf.github.io/publication/augvic/</loc>
+      <lastmod>2021-05-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/</loc>
+      <lastmod>2021-05-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -21,8 +29,8 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+      <loc>https://sbmaruf.github.io/tags/deep-learning/</loc>
+      <lastmod>2021-05-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -30,8 +38,8 @@
     
     <url>
     
-      <loc>/authors/m-saiful-bari/</loc>
-      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+      <loc>https://sbmaruf.github.io/authors/m-saiful-bari/</loc>
+      <lastmod>2021-05-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -39,16 +47,8 @@
     
     <url>
     
-      <loc>/publication/multimix/</loc>
-      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+      <loc>https://sbmaruf.github.io/publication_types/</loc>
+      <lastmod>2021-05-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -56,16 +56,16 @@
     
     <url>
     
-      <loc>/publication/</loc>
-      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+      <loc>https://sbmaruf.github.io/publication/</loc>
+      <lastmod>2021-05-01T00:00:00+08:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+      <loc>https://sbmaruf.github.io/</loc>
+      <lastmod>2021-05-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -73,8 +73,8 @@
     
     <url>
     
-      <loc>/authors/shafiq-joty/</loc>
-      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+      <loc>https://sbmaruf.github.io/authors/shafiq-joty/</loc>
+      <lastmod>2021-05-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -82,8 +82,8 @@
     
     <url>
     
-      <loc>/tags/</loc>
-      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+      <loc>https://sbmaruf.github.io/tags/</loc>
+      <lastmod>2021-05-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -91,8 +91,8 @@
     
     <url>
     
-      <loc>/authors/tasnim-mohiuddin/</loc>
-      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+      <loc>https://sbmaruf.github.io/authors/tasnim-mohiuddin/</loc>
+      <lastmod>2021-05-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -100,8 +100,8 @@
     
     <url>
     
-      <loc>/tags/cross-lingual/</loc>
-      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+      <loc>https://sbmaruf.github.io/tags/cross-lingual/</loc>
+      <lastmod>2021-05-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -109,8 +109,8 @@
     
     <url>
     
-      <loc>/tags/language-model/</loc>
-      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+      <loc>https://sbmaruf.github.io/tags/language-model/</loc>
+      <lastmod>2021-05-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -118,7 +118,15 @@
     
     <url>
     
-      <loc>/publication/lnmap/</loc>
+      <loc>https://sbmaruf.github.io/publication/uxla/</loc>
+      <lastmod>2020-04-30T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/publication/lnmap/</loc>
       <lastmod>2020-04-28T00:00:00+08:00</lastmod>
     </url>
     
@@ -126,7 +134,7 @@
     
     <url>
     
-      <loc>/tags/word-embedding/</loc>
+      <loc>https://sbmaruf.github.io/tags/word-embedding/</loc>
       <lastmod>2020-04-28T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -135,7 +143,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>https://sbmaruf.github.io/talk/</loc>
       <lastmod>2020-04-25T11:30:00+00:00</lastmod>
     </url>
     
@@ -143,7 +151,7 @@
     
     <url>
     
-      <loc>/talk/mbart/</loc>
+      <loc>https://sbmaruf.github.io/talk/mbart/</loc>
       <lastmod>2020-04-25T11:30:00+00:00</lastmod>
     </url>
     
@@ -151,7 +159,7 @@
     
     <url>
     
-      <loc>/tags/machine-translation/</loc>
+      <loc>https://sbmaruf.github.io/tags/machine-translation/</loc>
       <lastmod>2020-04-25T11:30:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -160,7 +168,7 @@
     
     <url>
     
-      <loc>/authors/prathyusha-jwalapuram/</loc>
+      <loc>https://sbmaruf.github.io/authors/prathyusha-jwalapuram/</loc>
       <lastmod>2019-11-14T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -169,7 +177,7 @@
     
     <url>
     
-      <loc>/publication/cross-lingual-ner/</loc>
+      <loc>https://sbmaruf.github.io/publication/cross-lingual-ner/</loc>
       <lastmod>2019-11-14T00:00:00+08:00</lastmod>
     </url>
     
@@ -177,7 +185,7 @@
     
     <url>
     
-      <loc>/talk/semi-sup/</loc>
+      <loc>https://sbmaruf.github.io/talk/semi-sup/</loc>
       <lastmod>2019-08-05T15:30:00+00:00</lastmod>
     </url>
     
@@ -185,7 +193,7 @@
     
     <url>
     
-      <loc>/tags/semi-sup-learning/</loc>
+      <loc>https://sbmaruf.github.io/tags/semi-sup-learning/</loc>
       <lastmod>2019-08-05T15:30:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -194,7 +202,7 @@
     
     <url>
     
-      <loc>/talk/transformer-xl/</loc>
+      <loc>https://sbmaruf.github.io/talk/transformer-xl/</loc>
       <lastmod>2019-07-05T15:30:00+00:00</lastmod>
     </url>
     
@@ -202,7 +210,7 @@
     
     <url>
     
-      <loc>/tags/architecture/</loc>
+      <loc>https://sbmaruf.github.io/tags/architecture/</loc>
       <lastmod>2019-07-05T15:30:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -211,7 +219,7 @@
     
     <url>
     
-      <loc>/publication/pointer-net-parser/</loc>
+      <loc>https://sbmaruf.github.io/publication/pointer-net-parser/</loc>
       <lastmod>2019-05-15T00:00:00+08:00</lastmod>
     </url>
     
@@ -219,16 +227,7 @@
     
     <url>
     
-      <loc>/authors/xiang-lin/</loc>
-      <lastmod>2019-05-15T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/discouse-parsing/</loc>
+      <loc>https://sbmaruf.github.io/authors/xiang-lin/</loc>
       <lastmod>2019-05-15T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -237,7 +236,16 @@
     
     <url>
     
-      <loc>/post/jupyter/</loc>
+      <loc>https://sbmaruf.github.io/tags/discouse-parsing/</loc>
+      <lastmod>2019-05-15T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/post/jupyter/</loc>
       <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     </url>
     
@@ -245,7 +253,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://sbmaruf.github.io/post/</loc>
       <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     </url>
     
@@ -253,7 +261,7 @@
     
     <url>
     
-      <loc>/authors/admin/</loc>
+      <loc>https://sbmaruf.github.io/authors/admin/</loc>
       <lastmod>2019-02-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -262,7 +270,7 @@
     
     <url>
     
-      <loc>/tags/algorithms/</loc>
+      <loc>https://sbmaruf.github.io/tags/algorithms/</loc>
       <lastmod>2019-01-30T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -271,7 +279,7 @@
     
     <url>
     
-      <loc>/project/algorithms-code-library/</loc>
+      <loc>https://sbmaruf.github.io/project/algorithms-code-library/</loc>
       <lastmod>2019-01-30T00:00:00+08:00</lastmod>
     </url>
     
@@ -279,7 +287,7 @@
     
     <url>
     
-      <loc>/project/</loc>
+      <loc>https://sbmaruf.github.io/project/</loc>
       <lastmod>2019-01-30T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -288,7 +296,7 @@
     
     <url>
     
-      <loc>/project/mt-system/</loc>
+      <loc>https://sbmaruf.github.io/post/awards/</loc>
       <lastmod>2019-01-25T00:00:00+08:00</lastmod>
     </url>
     
@@ -296,7 +304,7 @@
     
     <url>
     
-      <loc>/post/news/</loc>
+      <loc>https://sbmaruf.github.io/project/mt-system/</loc>
       <lastmod>2019-01-25T00:00:00+08:00</lastmod>
     </url>
     
@@ -304,7 +312,15 @@
     
     <url>
     
-      <loc>/publication_types/6/</loc>
+      <loc>https://sbmaruf.github.io/post/news/</loc>
+      <lastmod>2019-01-25T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/publication_types/6/</loc>
       <lastmod>2018-09-21T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -313,7 +329,7 @@
     
     <url>
     
-      <loc>/publication/data-analytics-book/</loc>
+      <loc>https://sbmaruf.github.io/publication/data-analytics-book/</loc>
       <lastmod>2018-09-21T00:00:00+08:00</lastmod>
     </url>
     
@@ -321,16 +337,7 @@
     
     <url>
     
-      <loc>/tags/book/</loc>
-      <lastmod>2018-09-21T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/data-analytics/</loc>
+      <loc>https://sbmaruf.github.io/tags/book/</loc>
       <lastmod>2018-09-21T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -339,7 +346,7 @@
     
     <url>
     
-      <loc>/tags/regression/</loc>
+      <loc>https://sbmaruf.github.io/tags/data-analytics/</loc>
       <lastmod>2018-09-21T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -348,7 +355,16 @@
     
     <url>
     
-      <loc>/tutorial/example/</loc>
+      <loc>https://sbmaruf.github.io/tags/regression/</loc>
+      <lastmod>2018-09-21T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00+08:00</lastmod>
     </url>
     
@@ -356,7 +372,7 @@
     
     <url>
     
-      <loc>/tutorial/</loc>
+      <loc>https://sbmaruf.github.io/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00+08:00</lastmod>
     </url>
     
@@ -364,7 +380,7 @@
     
     <url>
     
-      <loc>/talk/idcnn/</loc>
+      <loc>https://sbmaruf.github.io/talk/idcnn/</loc>
       <lastmod>2018-04-25T11:30:00+00:00</lastmod>
     </url>
     
@@ -372,7 +388,7 @@
     
     <url>
     
-      <loc>/talk/attention/</loc>
+      <loc>https://sbmaruf.github.io/talk/attention/</loc>
       <lastmod>2018-03-21T11:30:00+00:00</lastmod>
     </url>
     
@@ -380,7 +396,7 @@
     
     <url>
     
-      <loc>/talk/encode-decode-architecture/</loc>
+      <loc>https://sbmaruf.github.io/talk/encode-decode-architecture/</loc>
       <lastmod>2018-03-14T10:30:00+00:00</lastmod>
     </url>
     
@@ -388,7 +404,7 @@
     
     <url>
     
-      <loc>/talk/structure-of-rnn-cells/</loc>
+      <loc>https://sbmaruf.github.io/talk/structure-of-rnn-cells/</loc>
       <lastmod>2018-03-07T14:00:00+00:00</lastmod>
     </url>
     
@@ -396,7 +412,7 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
+      <loc>https://sbmaruf.github.io/tags/academic/</loc>
       <lastmod>2018-01-13T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -405,7 +421,7 @@
     
     <url>
     
-      <loc>/post/getting-started/</loc>
+      <loc>https://sbmaruf.github.io/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00+08:00</lastmod>
     </url>
     
@@ -413,14 +429,14 @@
     
     <url>
     
-      <loc>/author/admin/</loc>
+      <loc>https://sbmaruf.github.io/author/admin/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/author/</loc>
+      <loc>https://sbmaruf.github.io/author/</loc>
       <priority>0</priority>
     </url>
     
@@ -428,7 +444,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://sbmaruf.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -436,7 +452,7 @@
     
     <url>
     
-      <loc>/slides/</loc>
+      <loc>https://sbmaruf.github.io/slides/</loc>
       <priority>0</priority>
     </url>
     
@@ -444,7 +460,7 @@
     
     <url>
     
-      <loc>/slides/example-slides/</loc>
+      <loc>https://sbmaruf.github.io/slides/example-slides/</loc>
     </url>
     
   

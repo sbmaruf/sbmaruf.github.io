@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>admin on SBMARUF</title>
-    <link>/authors/admin/</link>
+    <link>https://sbmaruf.github.io/authors/admin/</link>
     <description>Recent content in admin on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sbmaruf.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
+      <link>https://sbmaruf.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/jupyter/</guid>
+      <guid>https://sbmaruf.github.io/post/jupyter/</guid>
       <description>Learn how to blog in Academic using Jupyter notebooks</description>
     </item>
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>https://sbmaruf.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>/post/getting-started/</guid>
+      <guid>https://sbmaruf.github.io/post/getting-started/</guid>
       <description>Create a beautifully simple website or blog in under 10 minutes.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/author/admin/</link>
+      <link>https://sbmaruf.github.io/author/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/admin/</guid>
+      <guid>https://sbmaruf.github.io/author/admin/</guid>
       <description>I am M Saiful Bari. You may also call me Maruf. I am a computer science enthusiast doing Ph.D. in Natural Language Processing under Prof. Dr. Shafiq Joty in his lab NTU-NLP. My research objective is to develop deep models that have the notion of humanity (brain motivated). I spend a huge amount of time and effort to explore unsupervised training and their possible contribution to generalizability and bias of the Multilingual Language Model.</description>
     </item>
     

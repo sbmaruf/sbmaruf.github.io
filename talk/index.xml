@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on SBMARUF</title>
-    <link>/talk/</link>
+    <link>https://sbmaruf.github.io/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Apr 2020 11:30:00 +0000</lastBuildDate>
     
-	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sbmaruf.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>mBART: pretraining seq2seq architecture</title>
-      <link>/talk/mbart/</link>
+      <link>https://sbmaruf.github.io/talk/mbart/</link>
       <pubDate>Sat, 25 Apr 2020 11:30:00 +0000</pubDate>
       
-      <guid>/talk/mbart/</guid>
+      <guid>https://sbmaruf.github.io/talk/mbart/</guid>
       <description>This talk summarizes the paper &lt;a href=&#34;https://arxiv.org/abs/2001.08210&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;mBART&lt;/code&gt;&lt;/a&gt; and some pretraining concepts.</description>
     </item>
     
     <item>
       <title>Semi-Supervised Training</title>
-      <link>/talk/semi-sup/</link>
+      <link>https://sbmaruf.github.io/talk/semi-sup/</link>
       <pubDate>Mon, 05 Aug 2019 15:30:00 +0000</pubDate>
       
-      <guid>/talk/semi-sup/</guid>
+      <guid>https://sbmaruf.github.io/talk/semi-sup/</guid>
       <description>This talk summarizes the paper &lt;a href=&#34;https://arxiv.org/abs/1710.09412&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;mixup&lt;/code&gt;&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/1905.02249&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;MixMatch&lt;/code&gt;&lt;/a&gt;, &lt;a href=&#34;https://openreview.net/pdf?id=HJgExaVtwr&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;DivideMix&lt;/code&gt;&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/1904.12848&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;UDA&lt;/code&gt;&lt;/a&gt;.</description>
     </item>
     
     <item>
       <title>Transforme-XL</title>
-      <link>/talk/transformer-xl/</link>
+      <link>https://sbmaruf.github.io/talk/transformer-xl/</link>
       <pubDate>Fri, 05 Jul 2019 15:30:00 +0000</pubDate>
       
-      <guid>/talk/transformer-xl/</guid>
+      <guid>https://sbmaruf.github.io/talk/transformer-xl/</guid>
       <description>This talk summarizes the paper &lt;a href=&#34;https://arxiv.org/abs/1901.02860&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context&lt;/code&gt;&lt;/a&gt;. It assumes that audience are already familier with &lt;a href=&#34;https://arxiv.org/abs/1706.03762&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;Attention Is All You Need&lt;/code&gt;&lt;/a&gt; paper and also discuss some high level concepts of it.</description>
     </item>
     
     <item>
       <title>Iterated Dilated Convolutions for NLP - NER as an example</title>
-      <link>/talk/idcnn/</link>
+      <link>https://sbmaruf.github.io/talk/idcnn/</link>
       <pubDate>Wed, 25 Apr 2018 11:30:00 +0000</pubDate>
       
-      <guid>/talk/idcnn/</guid>
+      <guid>https://sbmaruf.github.io/talk/idcnn/</guid>
       <description>This talk summarizes the paper &lt;a href=&#34;https://arxiv.org/abs/1702.02098&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;Fast and Accurate Entity Recognition with Iterated Dilated Convolutions&lt;/code&gt;&lt;/a&gt;.</description>
     </item>
     
     <item>
       <title>Attention Mechanism</title>
-      <link>/talk/attention/</link>
+      <link>https://sbmaruf.github.io/talk/attention/</link>
       <pubDate>Wed, 21 Mar 2018 11:30:00 +0000</pubDate>
       
-      <guid>/talk/attention/</guid>
+      <guid>https://sbmaruf.github.io/talk/attention/</guid>
       <description>This talk summarizes the paper &lt;a href=&#34;https://arxiv.org/abs/1508.04025&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;Effective Approaches to Attention-based Neural Machine Translation&lt;/code&gt;&lt;/a&gt;.</description>
     </item>
     
     <item>
       <title>Encode Decode Architecture</title>
-      <link>/talk/encode-decode-architecture/</link>
+      <link>https://sbmaruf.github.io/talk/encode-decode-architecture/</link>
       <pubDate>Wed, 14 Mar 2018 10:30:00 +0000</pubDate>
       
-      <guid>/talk/encode-decode-architecture/</guid>
+      <guid>https://sbmaruf.github.io/talk/encode-decode-architecture/</guid>
       <description>This talk summarizes the paper &lt;a href=&#34;https://arxiv.org/abs/1406.1078&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation&lt;/code&gt;&lt;/a&gt;.</description>
     </item>
     
     <item>
       <title>Structure of RNN Cells</title>
-      <link>/talk/structure-of-rnn-cells/</link>
+      <link>https://sbmaruf.github.io/talk/structure-of-rnn-cells/</link>
       <pubDate>Wed, 07 Mar 2018 14:00:00 +0000</pubDate>
       
-      <guid>/talk/structure-of-rnn-cells/</guid>
+      <guid>https://sbmaruf.github.io/talk/structure-of-rnn-cells/</guid>
       <description>A talk on the structures of RNN cells.</description>
     </item>
     

@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SBMARUF</title>
-    <link>/tags/</link>
+    <link>https://sbmaruf.github.io/tags/</link>
     <description>Recent content in Tags on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sbmaruf.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Thu, 30 Apr 2020 00:00:00 +0800</pubDate>
+      <link>https://sbmaruf.github.io/tags/deep-learning/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0800</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>https://sbmaruf.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cross-lingual</title>
-      <link>/tags/cross-lingual/</link>
-      <pubDate>Thu, 30 Apr 2020 00:00:00 +0800</pubDate>
+      <link>https://sbmaruf.github.io/tags/cross-lingual/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0800</pubDate>
       
-      <guid>/tags/cross-lingual/</guid>
+      <guid>https://sbmaruf.github.io/tags/cross-lingual/</guid>
       <description></description>
     </item>
     
     <item>
       <title>language-model</title>
-      <link>/tags/language-model/</link>
-      <pubDate>Thu, 30 Apr 2020 00:00:00 +0800</pubDate>
+      <link>https://sbmaruf.github.io/tags/language-model/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0800</pubDate>
       
-      <guid>/tags/language-model/</guid>
+      <guid>https://sbmaruf.github.io/tags/language-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>word-embedding</title>
-      <link>/tags/word-embedding/</link>
+      <link>https://sbmaruf.github.io/tags/word-embedding/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0800</pubDate>
       
-      <guid>/tags/word-embedding/</guid>
+      <guid>https://sbmaruf.github.io/tags/word-embedding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>machine-translation</title>
-      <link>/tags/machine-translation/</link>
+      <link>https://sbmaruf.github.io/tags/machine-translation/</link>
       <pubDate>Sat, 25 Apr 2020 11:30:00 +0000</pubDate>
       
-      <guid>/tags/machine-translation/</guid>
+      <guid>https://sbmaruf.github.io/tags/machine-translation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>semi-sup-learning</title>
-      <link>/tags/semi-sup-learning/</link>
+      <link>https://sbmaruf.github.io/tags/semi-sup-learning/</link>
       <pubDate>Mon, 05 Aug 2019 15:30:00 +0000</pubDate>
       
-      <guid>/tags/semi-sup-learning/</guid>
+      <guid>https://sbmaruf.github.io/tags/semi-sup-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>architecture</title>
-      <link>/tags/architecture/</link>
+      <link>https://sbmaruf.github.io/tags/architecture/</link>
       <pubDate>Fri, 05 Jul 2019 15:30:00 +0000</pubDate>
       
-      <guid>/tags/architecture/</guid>
+      <guid>https://sbmaruf.github.io/tags/architecture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>discouse-parsing</title>
-      <link>/tags/discouse-parsing/</link>
+      <link>https://sbmaruf.github.io/tags/discouse-parsing/</link>
       <pubDate>Wed, 15 May 2019 00:00:00 +0800</pubDate>
       
-      <guid>/tags/discouse-parsing/</guid>
+      <guid>https://sbmaruf.github.io/tags/discouse-parsing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algorithms</title>
-      <link>/tags/algorithms/</link>
+      <link>https://sbmaruf.github.io/tags/algorithms/</link>
       <pubDate>Wed, 30 Jan 2019 00:00:00 +0800</pubDate>
       
-      <guid>/tags/algorithms/</guid>
+      <guid>https://sbmaruf.github.io/tags/algorithms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>book</title>
-      <link>/tags/book/</link>
+      <link>https://sbmaruf.github.io/tags/book/</link>
       <pubDate>Fri, 21 Sep 2018 00:00:00 +0800</pubDate>
       
-      <guid>/tags/book/</guid>
+      <guid>https://sbmaruf.github.io/tags/book/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data-analytics</title>
-      <link>/tags/data-analytics/</link>
+      <link>https://sbmaruf.github.io/tags/data-analytics/</link>
       <pubDate>Fri, 21 Sep 2018 00:00:00 +0800</pubDate>
       
-      <guid>/tags/data-analytics/</guid>
+      <guid>https://sbmaruf.github.io/tags/data-analytics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/tags/regression/</link>
+      <link>https://sbmaruf.github.io/tags/regression/</link>
       <pubDate>Fri, 21 Sep 2018 00:00:00 +0800</pubDate>
       
-      <guid>/tags/regression/</guid>
+      <guid>https://sbmaruf.github.io/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>/tags/academic/</link>
+      <link>https://sbmaruf.github.io/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>/tags/academic/</guid>
+      <guid>https://sbmaruf.github.io/tags/academic/</guid>
       <description></description>
     </item>
     

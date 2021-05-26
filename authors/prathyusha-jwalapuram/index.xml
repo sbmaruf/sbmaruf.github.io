@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prathyusha Jwalapuram on SBMARUF</title>
-    <link>/authors/prathyusha-jwalapuram/</link>
+    <link>https://sbmaruf.github.io/authors/prathyusha-jwalapuram/</link>
     <description>Recent content in Prathyusha Jwalapuram on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="/authors/prathyusha-jwalapuram/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sbmaruf.github.io/authors/prathyusha-jwalapuram/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Zero-Resource Cross-Lingual Named Entity Recognition</title>
-      <link>/publication/cross-lingual-ner/</link>
+      <link>https://sbmaruf.github.io/publication/cross-lingual-ner/</link>
       <pubDate>Thu, 14 Nov 2019 00:00:00 +0800</pubDate>
       
-      <guid>/publication/cross-lingual-ner/</guid>
+      <guid>https://sbmaruf.github.io/publication/cross-lingual-ner/</guid>
       <description>We propose a superior model and training method for zero resource transfer of Cross-lingual Named Entity Recognition.</description>
     </item>
     
     <item>
       <title>A Unified Linear-Time Framework for Sentence-Level Discourse Parsing</title>
-      <link>/publication/pointer-net-parser/</link>
+      <link>https://sbmaruf.github.io/publication/pointer-net-parser/</link>
       <pubDate>Wed, 15 May 2019 00:00:00 +0800</pubDate>
       
-      <guid>/publication/pointer-net-parser/</guid>
+      <guid>https://sbmaruf.github.io/publication/pointer-net-parser/</guid>
       <description></description>
     </item>
     

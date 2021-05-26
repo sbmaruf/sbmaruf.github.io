@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>architecture on SBMARUF</title>
-    <link>/tags/architecture/</link>
+    <link>https://sbmaruf.github.io/tags/architecture/</link>
     <description>Recent content in architecture on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Jul 2019 15:30:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sbmaruf.github.io/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Transforme-XL</title>
-      <link>/talk/transformer-xl/</link>
+      <link>https://sbmaruf.github.io/talk/transformer-xl/</link>
       <pubDate>Fri, 05 Jul 2019 15:30:00 +0000</pubDate>
       
-      <guid>/talk/transformer-xl/</guid>
+      <guid>https://sbmaruf.github.io/talk/transformer-xl/</guid>
       <description>This talk summarizes the paper &lt;a href=&#34;https://arxiv.org/abs/1901.02860&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context&lt;/code&gt;&lt;/a&gt;. It assumes that audience are already familier with &lt;a href=&#34;https://arxiv.org/abs/1706.03762&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;Attention Is All You Need&lt;/code&gt;&lt;/a&gt; paper and also discuss some high level concepts of it.</description>
     </item>
     
     <item>
       <title>Structure of RNN Cells</title>
-      <link>/talk/structure-of-rnn-cells/</link>
+      <link>https://sbmaruf.github.io/talk/structure-of-rnn-cells/</link>
       <pubDate>Wed, 07 Mar 2018 14:00:00 +0000</pubDate>
       
-      <guid>/talk/structure-of-rnn-cells/</guid>
+      <guid>https://sbmaruf.github.io/talk/structure-of-rnn-cells/</guid>
       <description>A talk on the structures of RNN cells.</description>
     </item>
     
