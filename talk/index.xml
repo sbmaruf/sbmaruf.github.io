@@ -57,6 +57,15 @@
     </item>
     
     <item>
+      <title>GPT-3: Language Models are Few-Shot Learners</title>
+      <link>https://sbmaruf.github.io/talk/gpt-3/</link>
+      <pubDate>Wed, 21 Mar 2018 11:30:00 +0000</pubDate>
+      
+      <guid>https://sbmaruf.github.io/talk/gpt-3/</guid>
+      <description>This talk summarizes the paper &lt;a href=&#34;https://arxiv.org/abs/2005.14165&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;Language Models are Few-Shot Learners&lt;/code&gt;&lt;/a&gt;.</description>
+    </item>
+    
+    <item>
       <title>Encode Decode Architecture</title>
       <link>https://sbmaruf.github.io/talk/encode-decode-architecture/</link>
       <pubDate>Wed, 14 Mar 2018 10:30:00 +0000</pubDate>
