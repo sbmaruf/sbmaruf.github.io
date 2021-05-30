@@ -5,8 +5,17 @@
     <description>Recent content in SBMARUF on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 30 May 2021 12:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GPT-3: Language Models are Few-Shot Learners</title>
+      <link>https://sbmaruf.github.io/talk/gpt-3/</link>
+      <pubDate>Sun, 30 May 2021 12:00:00 +0000</pubDate>
+      
+      <guid>https://sbmaruf.github.io/talk/gpt-3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AugVic: Exploiting BiText Vicinity for Low-Resource NMT</title>
@@ -546,26 +555,6 @@ rm Untitled.md
       
       <guid>https://sbmaruf.github.io/publication/data-analytics-book/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Example Page</title>
-      <link>https://sbmaruf.github.io/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0800</pubDate>
-      
-      <guid>https://sbmaruf.github.io/tutorial/example/</guid>
-      <description>
-
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

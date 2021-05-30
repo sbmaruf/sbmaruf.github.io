@@ -6,10 +6,19 @@
     <description>Recent content in Deep Learning on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 30 May 2021 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sbmaruf.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GPT-3: Language Models are Few-Shot Learners</title>
+      <link>https://sbmaruf.github.io/talk/gpt-3/</link>
+      <pubDate>Sun, 30 May 2021 12:00:00 +0000</pubDate>
+      
+      <guid>https://sbmaruf.github.io/talk/gpt-3/</guid>
+      <description>This talk summarizes the paper &lt;a href=&#34;https://arxiv.org/abs/2005.14165&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;Language Models are Few-Shot Learners&lt;/code&gt;&lt;/a&gt;.</description>
+    </item>
     
     <item>
       <title>AugVic: Exploiting BiText Vicinity for Low-Resource NMT</title>
@@ -99,15 +108,6 @@
       
       <guid>https://sbmaruf.github.io/talk/attention/</guid>
       <description>This talk summarizes the paper &lt;a href=&#34;https://arxiv.org/abs/1508.04025&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;Effective Approaches to Attention-based Neural Machine Translation&lt;/code&gt;&lt;/a&gt;.</description>
-    </item>
-    
-    <item>
-      <title>GPT-3: Language Models are Few-Shot Learners</title>
-      <link>https://sbmaruf.github.io/talk/gpt-3/</link>
-      <pubDate>Wed, 21 Mar 2018 11:30:00 +0000</pubDate>
-      
-      <guid>https://sbmaruf.github.io/talk/gpt-3/</guid>
-      <description>This talk summarizes the paper &lt;a href=&#34;https://arxiv.org/abs/2005.14165&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;Language Models are Few-Shot Learners&lt;/code&gt;&lt;/a&gt;.</description>
     </item>
     
     <item>
