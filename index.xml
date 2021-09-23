@@ -5,8 +5,42 @@
     <description>Recent content in SBMARUF on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 May 2021 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Sep 2021 00:00:00 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nearest Neighbour Few-Shot Learning for Cross-lingual Classification</title>
+      <link>https://sbmaruf.github.io/publication/nn/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/nn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finetuned Language Models Are Zero-Shot Learners</title>
+      <link>https://sbmaruf.github.io/talk/flan/</link>
+      <pubDate>Wed, 22 Sep 2021 10:30:00 +0000</pubDate>
+      
+      <guid>https://sbmaruf.github.io/talk/flan/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    
+Click on the **Slides** button above to view the built-in slides feature.
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
     
     <item>
       <title>GPT-3: Language Models are Few-Shot Learners</title>
@@ -458,103 +492,6 @@ rm Untitled.md
     &lt;input type=&#34;submit&#34; value=&#34;The link of the demo&#34; /&gt;
 &lt;/form&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>https://sbmaruf.github.io/post/news/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://sbmaruf.github.io/post/news/</guid>
-      <description>
-
-&lt;h1 id=&#34;2021&#34;&gt;2021&lt;/h1&gt;
-
-&lt;table class=&#34;tg&#34;&gt;
-  &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;5-May&lt;/th&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;Two paper got accepted in &lt;a href=&#34;https://2021.aclweb.org/&#34;&gt;ACL-IJCNLP-2021 &lt;/a&gt;. &lt;/th&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;h1 id=&#34;2020&#34;&gt;2020&lt;/h1&gt;
-
-&lt;table class=&#34;tg&#34;&gt;
- 
-  &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;6-Nov&lt;/th&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;Get back to the PhD study after completing my internship with &lt;a href=&#34;https://aws.amazon.com/lex/&#34;&gt;Amazon Lex Team&lt;/a&gt;. &lt;/th&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;15-Oct&lt;/th&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;Our paper &lt;a href=&#34;https://arxiv.org/abs/2004.13889&#34;&gt;LNMap&lt;/a&gt; is accepted in EMNLP-2020. &lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;03-Aug&lt;/th&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;I will be starting my internship at Amazon, with &lt;a href=&#34;https://aws.amazon.com/lex/&#34;&gt;Lex Team&lt;/a&gt;. &lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;28-Aug&lt;/th&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;Passed my PhD Qualifying Examination (QE). &lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;28-Apr&lt;/th&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;Preprint of our new paper &lt;a href=&#34;https://arxiv.org/abs/2004.13889&#34;&gt;LNMap&lt;/a&gt; released in Arxiv. &lt;/th&gt;
-  &lt;/tr&gt;
-    &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;24-Apr&lt;/th&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;Preprint of our new paper &lt;a href=&#34;https://arxiv.org/abs/2004.13240&#34;&gt;MultiMix&lt;/a&gt; released in Arxiv. &lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;/tr&gt;
-    &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;25-Mar&lt;/th&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;Gave a talk on  &lt;a href=&#34;https://www.dropbox.com/s/ggnfgzoeo90ck1k/mBART.pdf&#34;&gt;mBART&lt;/a&gt;  (&lt;a href=&#34;https://arxiv.org/abs/2001.08210&#34;&gt;paper&lt;/a&gt; ) in NTU-NLP. &lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;13-Feb&lt;/th&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;Presenting &lt;a href=&#34;https://arxiv.org/abs/1911.09812&#34;&gt;our Cross-lingual-NER&lt;/a&gt; paper on AAAI-2020. &lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;4-Jan&lt;/th&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;Got AAAI-2020 travel scholarship. See you in New York. &lt;/th&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;h1 id=&#34;2019&#34;&gt;2019&lt;/h1&gt;
-
-&lt;p&gt;&lt;table class=&#34;tg&#34;&gt;
-  &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;9-Nov&lt;/th&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;I will be a Teaching Assistant, for Graduate &lt;a href=&#34;https://ntunlpsg.github.io/ce7455_deep-nlp-20/&#34;&gt; Deep Learning Course of NLP &lt;/a&gt;, NTU&lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;11-Nov&lt;/th&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/1911.09812&#34;&gt;A  paper&lt;/a&gt; accepted on &lt;a href=&#34;https://aaai.org/Conferences/AAAI-20/&#34;&gt;AAAI 2020.&lt;/a&gt; &lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;15-Jun&lt;/th&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;A  &lt;a href=&#34;https://arxiv.org/abs/1905.05682&#34;&gt;paper&lt;/a&gt; accepted on ACL 2019. &lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;25-Jan&lt;/th&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;Shows &lt;a href=&#34;https://ntunlpsg.github.io/project/malay-english-neural-machine-translator/&#34;&gt;MT&lt;/a&gt; system to industry and government stakeholders.&lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;15-Jan&lt;/th&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;Joins &lt;a href=&#34;https://ntunlpsg.github.io/&#34;&gt;NTU-NLP&lt;/a&gt; lab as a PhD student.&lt;/th&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Data Analytics: Concepts, Techniques and Applications</title>
-      <link>https://sbmaruf.github.io/publication/data-analytics-book/</link>
-      <pubDate>Fri, 21 Sep 2018 00:00:00 +0800</pubDate>
-      
-      <guid>https://sbmaruf.github.io/publication/data-analytics-book/</guid>
-      <description></description>
     </item>
     
   </channel>

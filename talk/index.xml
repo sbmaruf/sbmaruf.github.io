@@ -6,10 +6,19 @@
     <description>Recent content in Recent &amp; Upcoming Talks on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 May 2021 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Sep 2021 10:30:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sbmaruf.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Finetuned Language Models Are Zero-Shot Learners</title>
+      <link>https://sbmaruf.github.io/talk/flan/</link>
+      <pubDate>Wed, 22 Sep 2021 10:30:00 +0000</pubDate>
+      
+      <guid>https://sbmaruf.github.io/talk/flan/</guid>
+      <description>This talk summarizes the paper &lt;a href=&#34;https://arxiv.org/abs/2109.01652&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;Finetuned Language Models Are Zero-Shot Learners&lt;/code&gt;&lt;/a&gt;.</description>
+    </item>
     
     <item>
       <title>GPT-3: Language Models are Few-Shot Learners</title>

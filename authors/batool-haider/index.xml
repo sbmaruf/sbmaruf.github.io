@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Batool Haider on SBMARUF</title>
+    <link>https://sbmaruf.github.io/authors/batool-haider/</link>
+    <description>Recent content in Batool Haider on SBMARUF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Sep 2021 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://sbmaruf.github.io/authors/batool-haider/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nearest Neighbour Few-Shot Learning for Cross-lingual Classification</title>
+      <link>https://sbmaruf.github.io/publication/nn/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/nn/</guid>
+      <description>We propose a trasductive approach for few shot cross-lingual classification.</description>
+    </item>
+    
+  </channel>
+</rss>

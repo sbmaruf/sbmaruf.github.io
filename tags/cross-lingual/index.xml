@@ -6,10 +6,19 @@
     <description>Recent content in cross-lingual on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 23 Sep 2021 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://sbmaruf.github.io/tags/cross-lingual/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nearest Neighbour Few-Shot Learning for Cross-lingual Classification</title>
+      <link>https://sbmaruf.github.io/publication/nn/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/nn/</guid>
+      <description>We propose a trasductive approach for few shot cross-lingual classification.</description>
+    </item>
     
     <item>
       <title>AugVic: Exploiting BiText Vicinity for Low-Resource NMT</title>
