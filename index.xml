@@ -5,8 +5,17 @@
     <description>Recent content in SBMARUF on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Sep 2021 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Multitask Prompted Training Enables Zero-Shot Task Generalization</title>
+      <link>https://sbmaruf.github.io/publication/t0pp/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/t0pp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Nearest Neighbour Few-Shot Learning for Cross-lingual Classification</title>
@@ -474,23 +483,6 @@ rm Untitled.md
     &lt;th class=&#34;tg-s268&#34;&gt;&lt;a href=&#34;https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/rss&#34;&gt;NTU Research Scholarship&lt;/a&gt;, Fully funded Ph.D. scholarship for 4 years. &lt;/th&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Malay-English Neural Machine Translation System.</title>
-      <link>https://sbmaruf.github.io/project/mt-system/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://sbmaruf.github.io/project/mt-system/</guid>
-      <description>&lt;p&gt;This is a tool to translate an English sentence into Malay and vice versa. Developing a translation tool for low-resource languages like Malay has always been a challenge. The main challenge comes from the fact that machine translation systems typically rely on a huge amount of sentence-parallel data, and creating such datasets is an expensive process. In our work, we collected parallel datasets from various sources including News, OpenSubtitiles (OPUS), Ted talks, and Youtube video. Therefore, our corpus is quite generic and covers both texts and conversations.&lt;/p&gt;
-
-&lt;p&gt;We used various state of the art deep &lt;strong&gt;Neural Machine Translation&lt;/strong&gt; (NMT) architecture for training our model. More specifically we use both &lt;strong&gt;seq2seq&lt;/strong&gt; and &lt;strong&gt;transformer-net&lt;/strong&gt; architecture for finding our best model. For pre-processing and post-processing datasets we used various tools of &lt;strong&gt;moses&lt;/strong&gt;. To train our model we used &lt;strong&gt;OpenNMT-py&lt;/strong&gt; framework which is very standard in the NMT community for it&amp;rsquo;s robust and modular implementation.&lt;/p&gt;
-
-&lt;p&gt;Currently the live demo can only be accessed from inside NTU network.
-&lt;form action=&#34;http://172.21.145.63:4200&#34;&gt;
-    &lt;input type=&#34;submit&#34; value=&#34;The link of the demo&#34; /&gt;
-&lt;/form&gt;&lt;/p&gt;
 </description>
     </item>
     
