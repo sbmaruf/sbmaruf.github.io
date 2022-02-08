@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhiqing Sun on SBMARUF</title>
+    <link>https://sbmaruf.github.io/authors/zhiqing-sun/</link>
+    <description>Recent content in Zhiqing Sun on SBMARUF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://sbmaruf.github.io/authors/zhiqing-sun/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts</title>
+      <link>https://sbmaruf.github.io/publication/promptsource/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/promptsource/</guid>
+      <description>Over 2,000 prompts for roughly 170 datasets are available through PromptSource framework.</description>
+    </item>
+    
+  </channel>
+</rss>
