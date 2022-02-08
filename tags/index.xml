@@ -6,7 +6,7 @@
     <description>Recent content in Tags on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Feb 2022 16:30:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sbmaruf.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Deep Learning</title>
       <link>https://sbmaruf.github.io/tags/deep-learning/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 07 Feb 2022 16:30:00 +0000</pubDate>
       
       <guid>https://sbmaruf.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>architecture</title>
+      <link>https://sbmaruf.github.io/tags/architecture/</link>
+      <pubDate>Mon, 07 Feb 2022 16:30:00 +0000</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/architecture/</guid>
       <description></description>
     </item>
     
@@ -62,15 +71,6 @@
       <pubDate>Mon, 05 Aug 2019 15:30:00 +0000</pubDate>
       
       <guid>https://sbmaruf.github.io/tags/semi-sup-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>architecture</title>
-      <link>https://sbmaruf.github.io/tags/architecture/</link>
-      <pubDate>Fri, 05 Jul 2019 15:30:00 +0000</pubDate>
-      
-      <guid>https://sbmaruf.github.io/tags/architecture/</guid>
       <description></description>
     </item>
     

@@ -5,8 +5,33 @@
     <description>Recent content in SBMARUF on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Feb 2022 16:30:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Multitask Prompted Training Enables Zero-Shot Task Generalization</title>
+      <link>https://sbmaruf.github.io/talk/t0&#43;&#43;/</link>
+      <pubDate>Mon, 07 Feb 2022 16:30:00 +0000</pubDate>
+      
+      <guid>https://sbmaruf.github.io/talk/t0&#43;&#43;/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    
+Click on the **Slides** button above to view the built-in slides feature.
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
     
     <item>
       <title>Multitask Prompted Training Enables Zero-Shot Task Generalization</title>
@@ -448,41 +473,6 @@ rm Untitled.md
 &lt;p&gt;I also want to mention some of the other special names for their tremendous support. Nafis Ahmed, Mohammad Samiul Islam, Zobayer Hasan, Forhad Ahmed and Leonardo Boshell&lt;/p&gt;
 
 &lt;p&gt;NOTE : I don&amp;rsquo;t claim all of the soutions to be mine. While I was solving the problems, I took help from different peoples and see other people&amp;rsquo;s code for many problems. In Fact most of the coder here is collected. But I never submit any code without my complete understanding. I suugest those who will be following the repo to do so. Pasting code to online judges won&amp;rsquo;t take you any further except frustration.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>HONORS &amp; AWARDS</title>
-      <link>https://sbmaruf.github.io/post/awards/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://sbmaruf.github.io/post/awards/</guid>
-      <description>&lt;table class=&#34;tg&#34;&gt;
-  &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;2012&lt;/th&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;&lt;a href=&#34;https://https://www.oic-oci.org/&#34;&gt;OIC&lt;/a&gt; Scholarship for undergraduate study, &lt;a href=&#34;https://www.iutoic-dhaka.edu/&#34;&gt;Islamic University of Technology&lt;/a&gt;. &lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;2014&lt;/th&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;Champion, IUT Computer Programming Contest. &lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;2014&lt;/th&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;Honorable Mention, Human Expedition on Mars Timeline 2018. &lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;2016&lt;/th&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;2&lt;sup&gt;nd&lt;/sup&gt;/100 in Inter University Programming Contest, Daffodill International University ACM ICPC world finals warmup contest 2016 &lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;2016&lt;/th&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;6&lt;sup&gt;th&lt;/sup&gt;/100+ in Inter University Programming Contest, NSU Cybernauts National Programming Contest &lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;th class=&#34;tg-s268&#34; width=&#34;20%&#34;&gt;2019&lt;/th&gt;
-    &lt;th class=&#34;tg-s268&#34;&gt;&lt;a href=&#34;https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/rss&#34;&gt;NTU Research Scholarship&lt;/a&gt;, Fully funded Ph.D. scholarship for 4 years. &lt;/th&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
 </description>
     </item>
     

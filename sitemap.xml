@@ -3,6 +3,76 @@
     
     <url>
     
+      <loc>https://sbmaruf.github.io/authors/</loc>
+      <lastmod>2022-02-07T16:30:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/deep-learning/</loc>
+      <lastmod>2022-02-07T16:30:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/m-saiful-bari/</loc>
+      <lastmod>2022-02-07T16:30:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/talk/t0&#43;&#43;/</loc>
+      <lastmod>2022-02-07T16:30:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/talk/</loc>
+      <lastmod>2022-02-07T16:30:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/</loc>
+      <lastmod>2022-02-07T16:30:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/</loc>
+      <lastmod>2022-02-07T16:30:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/architecture/</loc>
+      <lastmod>2022-02-07T16:30:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://sbmaruf.github.io/publication_types/1/</loc>
       <lastmod>2021-10-15T00:00:00+08:00</lastmod>
       <priority>0</priority>
@@ -75,15 +145,6 @@
     
     <url>
     
-      <loc>https://sbmaruf.github.io/authors/</loc>
-      <lastmod>2021-10-15T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://sbmaruf.github.io/authors/canwen-xu/</loc>
       <lastmod>2021-10-15T00:00:00+08:00</lastmod>
       <priority>0</priority>
@@ -103,15 +164,6 @@
     <url>
     
       <loc>https://sbmaruf.github.io/authors/debajyoti-datta/</loc>
-      <lastmod>2021-10-15T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sbmaruf.github.io/tags/deep-learning/</loc>
       <lastmod>2021-10-15T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -201,15 +253,6 @@
     
     <url>
     
-      <loc>https://sbmaruf.github.io/authors/m-saiful-bari/</loc>
-      <lastmod>2021-10-15T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://sbmaruf.github.io/authors/manan-dey/</loc>
       <lastmod>2021-10-15T00:00:00+08:00</lastmod>
       <priority>0</priority>
@@ -289,15 +332,6 @@
     
     <url>
     
-      <loc>https://sbmaruf.github.io/</loc>
-      <lastmod>2021-10-15T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://sbmaruf.github.io/authors/shanya-sharma-sharma/</loc>
       <lastmod>2021-10-15T00:00:00+08:00</lastmod>
       <priority>0</priority>
@@ -335,15 +369,6 @@
     <url>
     
       <loc>https://sbmaruf.github.io/authors/taewoon-kim/</loc>
-      <lastmod>2021-10-15T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sbmaruf.github.io/tags/</loc>
       <lastmod>2021-10-15T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -494,14 +519,6 @@
     
     <url>
     
-      <loc>https://sbmaruf.github.io/talk/</loc>
-      <lastmod>2021-09-22T10:30:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://sbmaruf.github.io/talk/gpt-3/</loc>
       <lastmod>2021-05-30T12:00:00+00:00</lastmod>
     </url>
@@ -614,15 +631,6 @@
     
       <loc>https://sbmaruf.github.io/talk/transformer-xl/</loc>
       <lastmod>2019-07-05T15:30:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sbmaruf.github.io/tags/architecture/</loc>
-      <lastmod>2019-07-05T15:30:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
