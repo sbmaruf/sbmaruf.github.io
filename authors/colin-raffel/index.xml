@@ -6,10 +6,19 @@
     <description>Recent content in Colin Raffel on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://sbmaruf.github.io/authors/colin-raffel/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What Language Model to Train if You Have One Million GPU Hours?</title>
+      <link>https://sbmaruf.github.io/publication/llm/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/llm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts</title>
