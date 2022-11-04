@@ -5,8 +5,17 @@
     <description>Recent content in SBMARUF on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Multitask Prompted Training Enables Zero-Shot Task Generalization</title>
+      <link>https://sbmaruf.github.io/publication/xmtf/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/xmtf/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What Language Model to Train if You Have One Million GPU Hours?</title>
@@ -214,15 +223,6 @@ Click on the **Slides** button above to view the built-in slides feature.
 
 Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A Unified Linear-Time Framework for Sentence-Level Discourse Parsing</title>
-      <link>https://sbmaruf.github.io/publication/pointer-net-parser/</link>
-      <pubDate>Wed, 15 May 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://sbmaruf.github.io/publication/pointer-net-parser/</guid>
-      <description></description>
     </item>
     
   </channel>

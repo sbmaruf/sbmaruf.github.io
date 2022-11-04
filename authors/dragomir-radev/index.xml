@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dragomir Radev on SBMARUF</title>
+    <link>https://sbmaruf.github.io/authors/dragomir-radev/</link>
+    <description>Recent content in Dragomir Radev on SBMARUF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://sbmaruf.github.io/authors/dragomir-radev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multitask Prompted Training Enables Zero-Shot Task Generalization</title>
+      <link>https://sbmaruf.github.io/publication/xmtf/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/xmtf/</guid>
+      <description>Shows multitask multilingual generalization in language model.</description>
+    </item>
+    
+  </channel>
+</rss>
