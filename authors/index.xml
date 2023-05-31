@@ -6,10 +6,19 @@
     <description>Recent content in Authors on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2023 12:30:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sbmaruf.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>M Saiful Bari</title>
+      <link>https://sbmaruf.github.io/authors/m-saiful-bari/</link>
+      <pubDate>Mon, 01 May 2023 12:30:00 +0000</pubDate>
+      
+      <guid>https://sbmaruf.github.io/authors/m-saiful-bari/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adam Roberts</title>
@@ -89,15 +98,6 @@
       <pubDate>Thu, 03 Nov 2022 00:00:00 +0800</pubDate>
       
       <guid>https://sbmaruf.github.io/authors/lintang-sutawika/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M Saiful Bari</title>
-      <link>https://sbmaruf.github.io/authors/m-saiful-bari/</link>
-      <pubDate>Thu, 03 Nov 2022 00:00:00 +0800</pubDate>
-      
-      <guid>https://sbmaruf.github.io/authors/m-saiful-bari/</guid>
       <description></description>
     </item>
     
