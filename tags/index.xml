@@ -6,7 +6,7 @@
     <description>Recent content in Tags on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 May 2023 12:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 May 2023 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://sbmaruf.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,25 @@
     <item>
       <title>Deep Learning</title>
       <link>https://sbmaruf.github.io/tags/deep-learning/</link>
-      <pubDate>Mon, 01 May 2023 12:30:00 +0000</pubDate>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0800</pubDate>
       
       <guid>https://sbmaruf.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>evaluation</title>
+      <link>https://sbmaruf.github.io/tags/evaluation/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>language-model</title>
       <link>https://sbmaruf.github.io/tags/language-model/</link>
-      <pubDate>Mon, 01 May 2023 12:30:00 +0000</pubDate>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0800</pubDate>
       
       <guid>https://sbmaruf.github.io/tags/language-model/</guid>
       <description></description>
@@ -41,9 +50,18 @@
     <item>
       <title>multi-lingual</title>
       <link>https://sbmaruf.github.io/tags/multi-lingual/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0800</pubDate>
       
       <guid>https://sbmaruf.github.io/tags/multi-lingual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming-language</title>
+      <link>https://sbmaruf.github.io/tags/programming-language/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/programming-language/</guid>
       <description></description>
     </item>
     

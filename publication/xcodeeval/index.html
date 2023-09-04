@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="We propose UXLA, a novel data augmentation framework for self-supervised learning in zero-resource transfer learning scenarios.">
+  <meta name="description" content="We introduce xCodeEval, the largest executable multilingual multitask benchmark to date consisting of 25M document-level coding examples from about 7.5 K unique problems covering up to 17 programming languages with execution-level parallelism.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://sbmaruf.github.io/publication/xcodeeval/">
@@ -127,29 +127,28 @@
   
   
     
-    
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="twitter:site" content="@sbmaruf">
   <meta property="twitter:creator" content="@sbmaruf">
   
   <meta property="og:site_name" content="SBMARUF">
   <meta property="og:url" content="https://sbmaruf.github.io/publication/xcodeeval/">
-  <meta property="og:title" content="UXLA: A Robust Unsupervised Data Augmentation Framework for Zero-Resouce Cross-Lingual NLP | SBMARUF">
-  <meta property="og:description" content="We propose UXLA, a novel data augmentation framework for self-supervised learning in zero-resource transfer learning scenarios."><meta property="og:image" content="https://sbmaruf.github.io/img/icon-192.png">
+  <meta property="og:title" content="xCodeEval: A Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval | SBMARUF">
+  <meta property="og:description" content="We introduce xCodeEval, the largest executable multilingual multitask benchmark to date consisting of 25M document-level coding examples from about 7.5 K unique problems covering up to 17 programming languages with execution-level parallelism."><meta property="og:image" content="https://sbmaruf.github.io/publication/xcodeeval/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2020-04-30T00:00:00&#43;08:00">
+  <meta property="article:published_time" content="2023-03-06T00:00:00&#43;08:00">
   
-  <meta property="article:modified_time" content="2020-04-30T00:00:00&#43;08:00">
-  
-
+  <meta property="article:modified_time" content="2023-03-06T00:00:00&#43;08:00">
   
 
   
 
-  <title>UXLA: A Robust Unsupervised Data Augmentation Framework for Zero-Resouce Cross-Lingual NLP | SBMARUF</title>
+  
+
+  <title>xCodeEval: A Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval | SBMARUF</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -399,23 +398,27 @@
 
 
 
-  
 
-  
-  
-  
-<div class="article-container pt-3">
-  <h1 itemprop="name">UXLA: A Robust Unsupervised Data Augmentation Framework for Zero-Resouce Cross-Lingual NLP</h1>
-
-  
-
-  
-    
+<div class="article-header d-xl-none">
+  <div class="featured-image" style="background-image: url('/publication/xcodeeval/featured_hu6c9ac4279fcc2ecc3ccd5045a0fcfab0_584382_800x0_resize_lanczos_2.png');"></div>
+  <span class="article-header-caption">Image credit: [<strong>Augvic</strong>]()</span>
+</div>
 
 
+<div class="container-fluid split-header d-none d-xl-block">
+  <div class="row">
+    <div class="col-6">
+      <div class="split-header-content">
+        <h1 itemprop="name">xCodeEval: A Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval</h1>
 
-<meta content="2020-04-30 00:00:00 &#43;0800 &#43;08" itemprop="datePublished">
-<meta content="2020-04-30 00:00:00 &#43;0800 &#43;08" itemprop="dateModified">
+        
+
+        
+
+
+
+<meta content="2023-03-06 00:00:00 &#43;0800 &#43;08" itemprop="datePublished">
+<meta content="2023-03-06 00:00:00 &#43;0800 &#43;08" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -434,6 +437,13 @@
 
       
       
+      <a href="">Mohammad Abdullah Matin Khan</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
       <a href="">M Saiful Bari</a></span></span>, 
   <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">
@@ -441,7 +451,21 @@
 
       
       
-      <a href="">Tasnim Mohiuddin</a></span></span>, 
+      <a href="">Xuan Long Do</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Weishi Wang</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Md Rizwan Parvez</a></span></span>, 
   <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">
         
@@ -463,7 +487,7 @@
     
       
     
-    <time>April 30, 2020</time>
+    <time>March 6, 2023</time>
   </span>
   
 
@@ -477,52 +501,11 @@
   
 
   
-    
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    <li>
-      <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=UXLA%3a%20A%20Robust%20Unsupervised%20Data%20Augmentation%20Framework%20for%20Zero-Resouce%20Cross-Lingual%20NLP&amp;url=https%3a%2f%2fsbmaruf.github.io%2fpublication%2fxcodeeval%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fsbmaruf.github.io%2fpublication%2fxcodeeval%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fsbmaruf.github.io%2fpublication%2fxcodeeval%2f&amp;title=UXLA%3a%20A%20Robust%20Unsupervised%20Data%20Augmentation%20Framework%20for%20Zero-Resouce%20Cross-Lingual%20NLP"
-         target="_blank" rel="noopener">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-    </li>
-    <li>
-      <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fsbmaruf.github.io%2fpublication%2fxcodeeval%2f&amp;title=UXLA%3a%20A%20Robust%20Unsupervised%20Data%20Augmentation%20Framework%20for%20Zero-Resouce%20Cross-Lingual%20NLP"
-         target="_blank" rel="noopener">
-        <i class="fab fa-weibo"></i>
-      </a>
-    </li>
-    <li>
-      <a class="email"
-         href="mailto:?subject=UXLA%3a%20A%20Robust%20Unsupervised%20Data%20Augmentation%20Framework%20for%20Zero-Resouce%20Cross-Lingual%20NLP&amp;body=https%3a%2f%2fsbmaruf.github.io%2fpublication%2fxcodeeval%2f">
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  </ul>
-</div>
-
-
-  
 
 </div>
 
-    
+
+        
 
 
 
@@ -585,16 +568,342 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2004.13240" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2303.03004" target="_blank" rel="noopener">
     
     Paper
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/ntunlp/xCodeEval" target="_blank" rel="noopener">
+    
+    Code
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://huggingface.co/datasets/NTU-NLP-sg/xCodeEval" target="_blank" rel="noopener">
+    
+    huggingface
   </a>
 
 
 </div>
 
 
+
+        
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=xCodeEval%3a%20A%20Large%20Scale%20Multilingual%20Multitask%20Benchmark%20for%20Code%20Understanding%2c%20Generation%2c%20Translation%20and%20Retrieval&amp;url=https%3a%2f%2fsbmaruf.github.io%2fpublication%2fxcodeeval%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fsbmaruf.github.io%2fpublication%2fxcodeeval%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fsbmaruf.github.io%2fpublication%2fxcodeeval%2f&amp;title=xCodeEval%3a%20A%20Large%20Scale%20Multilingual%20Multitask%20Benchmark%20for%20Code%20Understanding%2c%20Generation%2c%20Translation%20and%20Retrieval"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fsbmaruf.github.io%2fpublication%2fxcodeeval%2f&amp;title=xCodeEval%3a%20A%20Large%20Scale%20Multilingual%20Multitask%20Benchmark%20for%20Code%20Understanding%2c%20Generation%2c%20Translation%20and%20Retrieval"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=xCodeEval%3a%20A%20Large%20Scale%20Multilingual%20Multitask%20Benchmark%20for%20Code%20Understanding%2c%20Generation%2c%20Translation%20and%20Retrieval&amp;body=https%3a%2f%2fsbmaruf.github.io%2fpublication%2fxcodeeval%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+      </div>
+    </div>
+    <div class="col-6">
+      <div class="split-header-image">
+        <img src="/publication/xcodeeval/featured_hu6c9ac4279fcc2ecc3ccd5045a0fcfab0_584382_680x500_fill_q90_lanczos_center_2.png" itemprop="image" alt="">
+        <span class="article-header-caption">Image credit: [<strong>Augvic</strong>]()</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="article-container d-xl-none">
+  <h1 itemprop="name">xCodeEval: A Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval</h1>
+
   
+
+  
+
+
+
+<meta content="2023-03-06 00:00:00 &#43;0800 &#43;08" itemprop="datePublished">
+<meta content="2023-03-06 00:00:00 &#43;0800 &#43;08" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Mohammad Abdullah Matin Khan</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">M Saiful Bari</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Xuan Long Do</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Weishi Wang</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Md Rizwan Parvez</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Shafiq Joty</a></span></span>
+  
+
+
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>March 6, 2023</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=xCodeEval%3a%20A%20Large%20Scale%20Multilingual%20Multitask%20Benchmark%20for%20Code%20Understanding%2c%20Generation%2c%20Translation%20and%20Retrieval&amp;url=https%3a%2f%2fsbmaruf.github.io%2fpublication%2fxcodeeval%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fsbmaruf.github.io%2fpublication%2fxcodeeval%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fsbmaruf.github.io%2fpublication%2fxcodeeval%2f&amp;title=xCodeEval%3a%20A%20Large%20Scale%20Multilingual%20Multitask%20Benchmark%20for%20Code%20Understanding%2c%20Generation%2c%20Translation%20and%20Retrieval"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fsbmaruf.github.io%2fpublication%2fxcodeeval%2f&amp;title=xCodeEval%3a%20A%20Large%20Scale%20Multilingual%20Multitask%20Benchmark%20for%20Code%20Understanding%2c%20Generation%2c%20Translation%20and%20Retrieval"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=xCodeEval%3a%20A%20Large%20Scale%20Multilingual%20Multitask%20Benchmark%20for%20Code%20Understanding%2c%20Generation%2c%20Translation%20and%20Retrieval&amp;body=https%3a%2f%2fsbmaruf.github.io%2fpublication%2fxcodeeval%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/xcodeeval/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2303.03004" target="_blank" rel="noopener">
+    
+    Paper
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/ntunlp/xCodeEval" target="_blank" rel="noopener">
+    
+    Code
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://huggingface.co/datasets/NTU-NLP-sg/xCodeEval" target="_blank" rel="noopener">
+    
+    huggingface
+  </a>
+
+
+</div>
+
+
 </div>
 
 
@@ -603,7 +912,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Transfer learning has yielded state-of-the-art (SoTA) results in many supervised NLP tasks. However,  annotated data for every target task in every target language is rare, especially for low-resource languages. We propose UXLA, a novel unsupervised data augmentation framework for zero-resource transfer learning scenarios. In particular, UXLA aims to solve cross-lingual adaptation problems from a source language task distribution to an unknown target language task distribution, assuming no training label in the target language. At its core, UXLA performs simultaneous self-training with data augmentation and unsupervised sample selection. To show its effectiveness, we conduct extensive experiments on three diverse zero-resource cross-lingual transfer tasks. UXLA achieves SoTA results in all the tasks, outperforming the baselines by a good margin. With an in-depth framework dissection, we demonstrate the cumulative contributions of different components to its success.</p>
+    <p class="pub-abstract" itemprop="text">AI systems that can create codes as solutions to problems or assist developers in writing codes can increase productivity and make programming more accessible. Recently, pre-trained large language models have shown impressive abilities in generating codes from natural language descriptions, repairing buggy codes, translating codes between languages, and retrieving relevant code segments. However, the evaluation of these models has often been performed in a scattered way on only one or two specific tasks, in a few languages, at a partial granularity (e.g., function) level, and in many cases without proper training data. Even more concerning is that in most cases the evaluation of generated codes has been done in terms of mere lexical overlap with a reference code rather than actual execution. We introduce xCodeEval, the largest executable multilingual multitask benchmark to date consisting of 25M document-level coding examples (16.5B tokens) from about 7.5K unique problems covering up to 11 programming languages with execution-level parallelism. It features a total of seven tasks involving code understanding, generation, translation and retrieval. xCodeEval adopts an execution-based evaluation and offers a multilingual code execution engine, ExecEval that supports unit test based execution in all the 11 languages. To address the challenge of balancing the distributions of text-code samples over multiple attributes in validation/test sets, we further propose a novel data splitting and a data selection schema based on the geometric mean and graph-theoretic principle. Experimental results on all the tasks and languages show xCodeEval is a promising yet challenging benchmark as per the current advancements in language models.</p>
     
 
     
@@ -635,7 +944,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing, 2021</div>
+          <div class="col-12 col-md-9">Arxiv</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -654,9 +963,11 @@
   
   <a class="badge badge-light" href="/tags/deep-learning/">deep-learning</a>
   
-  <a class="badge badge-light" href="/tags/cross-lingual/">cross-lingual</a>
+  <a class="badge badge-light" href="/tags/multi-lingual/">multi-lingual</a>
   
   <a class="badge badge-light" href="/tags/language-model/">language-model</a>
+  
+  <a class="badge badge-light" href="/tags/programming-language/">programming-language</a>
   
 </div>
 

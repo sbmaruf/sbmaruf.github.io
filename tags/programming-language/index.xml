@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programming-language on SBMARUF</title>
+    <link>https://sbmaruf.github.io/tags/programming-language/</link>
+    <description>Recent content in programming-language on SBMARUF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://sbmaruf.github.io/tags/programming-language/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>xCodeEval: A Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval</title>
+      <link>https://sbmaruf.github.io/publication/xcodeeval/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/xcodeeval/</guid>
+      <description>We introduce xCodeEval, the largest executable multilingual multitask benchmark to date consisting of 25M document-level coding examples from about 7.5 K unique problems covering up to 17 programming languages with execution-level parallelism.</description>
+    </item>
+    
+  </channel>
+</rss>
