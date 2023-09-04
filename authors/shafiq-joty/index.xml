@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>UXLA: A Robust Unsupervised Data Augmentation Framework for Zero-Resouce Cross-Lingual NLP</title>
+      <link>https://sbmaruf.github.io/publication/xcodeeval/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/xcodeeval/</guid>
+      <description>We propose UXLA, a novel data augmentation framework for self-supervised learning in zero-resource transfer learning scenarios.</description>
+    </item>
+    
+    <item>
       <title>LNMAP: Departures from Isomorphic Assumption in Bilingual Lexicon Induction Through Non-Linear Mapping in Latent Space</title>
       <link>https://sbmaruf.github.io/publication/lnmap/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0800</pubDate>

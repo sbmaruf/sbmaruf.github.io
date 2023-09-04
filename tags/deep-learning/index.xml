@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep-Learning on SBMARUF</title>
+    <title>Deep Learning on SBMARUF</title>
     <link>https://sbmaruf.github.io/tags/deep-learning/</link>
-    <description>Recent content in Deep-Learning on SBMARUF</description>
+    <description>Recent content in Deep Learning on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 May 2023 12:30:00 +0000</lastBuildDate>
@@ -107,6 +107,15 @@
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0800</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/uxla/</guid>
+      <description>We propose UXLA, a novel data augmentation framework for self-supervised learning in zero-resource transfer learning scenarios.</description>
+    </item>
+    
+    <item>
+      <title>UXLA: A Robust Unsupervised Data Augmentation Framework for Zero-Resouce Cross-Lingual NLP</title>
+      <link>https://sbmaruf.github.io/publication/xcodeeval/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/xcodeeval/</guid>
       <description>We propose UXLA, a novel data augmentation framework for self-supervised learning in zero-resource transfer learning scenarios.</description>
     </item>
     

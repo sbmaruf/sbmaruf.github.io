@@ -158,6 +158,15 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     </item>
     
     <item>
+      <title>UXLA: A Robust Unsupervised Data Augmentation Framework for Zero-Resouce Cross-Lingual NLP</title>
+      <link>https://sbmaruf.github.io/publication/xcodeeval/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/xcodeeval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>LNMAP: Departures from Isomorphic Assumption in Bilingual Lexicon Induction Through Non-Linear Mapping in Latent Space</title>
       <link>https://sbmaruf.github.io/publication/lnmap/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0800</pubDate>
@@ -200,31 +209,6 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
       
       <guid>https://sbmaruf.github.io/publication/cross-lingual-ner/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Semi-Supervised Training</title>
-      <link>https://sbmaruf.github.io/talk/semi-sup/</link>
-      <pubDate>Mon, 05 Aug 2019 15:30:00 +0000</pubDate>
-      
-      <guid>https://sbmaruf.github.io/talk/semi-sup/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    
-Click on the **Slides** button above to view the built-in slides feature.
-
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-
-&lt;!-- Slides can be added in a few ways:
-
-- **Create** slides using Academic&#39;s *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
     </item>
     
   </channel>
