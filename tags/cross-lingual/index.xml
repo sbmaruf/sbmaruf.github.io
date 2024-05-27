@@ -6,7 +6,7 @@
     <description>Recent content in cross-lingual on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Sep 2021 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 23 Sep 2021 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://sbmaruf.github.io/tags/cross-lingual/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Nearest Neighbour Few-Shot Learning for Cross-lingual Classification</title>
       <link>https://sbmaruf.github.io/publication/nn/</link>
-      <pubDate>Thu, 23 Sep 2021 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 -0400</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/nn/</guid>
       <description>We propose a trasductive approach for few shot cross-lingual classification.</description>
@@ -23,7 +23,7 @@
     <item>
       <title>AugVic: Exploiting BiText Vicinity for Low-Resource NMT</title>
       <link>https://sbmaruf.github.io/publication/augvic/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0800</pubDate>
+      <pubDate>Sat, 01 May 2021 00:00:00 -0400</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/augvic/</guid>
       <description>We propose AugVic, a data augmentation framework for sequence to sequence model (i.e. NMT) using Language Model.</description>
@@ -32,7 +32,7 @@
     <item>
       <title>UXLA: A Robust Unsupervised Data Augmentation Framework for Zero-Resouce Cross-Lingual NLP</title>
       <link>https://sbmaruf.github.io/publication/uxla/</link>
-      <pubDate>Thu, 30 Apr 2020 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 -0400</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/uxla/</guid>
       <description>We propose UXLA, a novel data augmentation framework for self-supervised learning in zero-resource transfer learning scenarios.</description>
@@ -41,7 +41,7 @@
     <item>
       <title>LNMAP: Departures from Isomorphic Assumption in Bilingual Lexicon Induction Through Non-Linear Mapping in Latent Space</title>
       <link>https://sbmaruf.github.io/publication/lnmap/</link>
-      <pubDate>Tue, 28 Apr 2020 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 -0400</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/lnmap/</guid>
       <description>We propose a novel semi-supervised method to learn cross-lingual word embeddings for BLI.</description>
@@ -50,7 +50,7 @@
     <item>
       <title>Zero-Resource Cross-Lingual Named Entity Recognition</title>
       <link>https://sbmaruf.github.io/publication/cross-lingual-ner/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 -0500</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/cross-lingual-ner/</guid>
       <description>We propose a superior model and training method for zero resource transfer of Cross-lingual Named Entity Recognition.</description>

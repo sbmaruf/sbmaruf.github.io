@@ -6,7 +6,7 @@
     <description>Recent content in word-embedding on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://sbmaruf.github.io/tags/word-embedding/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>LNMAP: Departures from Isomorphic Assumption in Bilingual Lexicon Induction Through Non-Linear Mapping in Latent Space</title>
       <link>https://sbmaruf.github.io/publication/lnmap/</link>
-      <pubDate>Tue, 28 Apr 2020 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 -0400</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/lnmap/</guid>
       <description>We propose a novel semi-supervised method to learn cross-lingual word embeddings for BLI.</description>
@@ -23,7 +23,7 @@
     <item>
       <title>Zero-Resource Cross-Lingual Named Entity Recognition</title>
       <link>https://sbmaruf.github.io/publication/cross-lingual-ner/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 -0500</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/cross-lingual-ner/</guid>
       <description>We propose a superior model and training method for zero resource transfer of Cross-lingual Named Entity Recognition.</description>

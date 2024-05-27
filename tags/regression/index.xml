@@ -6,7 +6,7 @@
     <description>Recent content in regression on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Sep 2018 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 21 Sep 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://sbmaruf.github.io/tags/regression/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Data Analytics: Concepts, Techniques and Applications</title>
       <link>https://sbmaruf.github.io/publication/data-analytics-book/</link>
-      <pubDate>Fri, 21 Sep 2018 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/data-analytics-book/</guid>
       <description>This book chapter goes through various aspects of regression and maths behind them.</description>

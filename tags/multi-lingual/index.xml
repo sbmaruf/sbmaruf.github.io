@@ -6,15 +6,24 @@
     <description>Recent content in multi-lingual on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://sbmaruf.github.io/tags/multi-lingual/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>xCodeEval: A Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval</title>
+      <link>https://sbmaruf.github.io/publication/xcodeeval/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/xcodeeval/</guid>
+      <description>We introduce xCodeEval, the largest executable multilingual multitask benchmark to date consisting of 25M document-level coding examples from about 7.5 K unique problems covering up to 17 programming languages with execution-level parallelism.</description>
+    </item>
+    
+    <item>
       <title>What Language Model to Train if You Have One Million GPU Hours?</title>
       <link>https://sbmaruf.github.io/publication/llm/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 -0500</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/llm/</guid>
       <description></description>
