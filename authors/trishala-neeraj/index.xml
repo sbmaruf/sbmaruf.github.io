@@ -6,7 +6,7 @@
     <description>Recent content in Trishala Neeraj on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="https://sbmaruf.github.io/authors/trishala-neeraj/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Multitask Prompted Training Enables Zero-Shot Task Generalization</title>
       <link>https://sbmaruf.github.io/publication/t0pp/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/t0pp/</guid>
       <description>T0 shows zero-shot task generalization on English natural language prompts, outperforming GPT-3 on many tasks, while being 16x smaller!</description>

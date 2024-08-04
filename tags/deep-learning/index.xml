@@ -6,7 +6,7 @@
     <description>Recent content in Deep Learning on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 May 2023 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 29 May 2023 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="https://sbmaruf.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets</title>
       <link>https://sbmaruf.github.io/publication/chatgpt/</link>
-      <pubDate>Mon, 29 May 2023 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/chatgpt/</guid>
       <description>The paper comprehensively evaluates ChatGPT&amp;rsquo;s performance on various academic tasks, covering 140 tasks across diverse fields, highlighting strengths and weaknesses, and introducing a new ability to follow multi-query instructions, ultimately paving the way for practical applications of ChatGPT-like models.</description>
@@ -32,7 +32,7 @@
     <item>
       <title>xCodeEval: A Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval</title>
       <link>https://sbmaruf.github.io/publication/xcodeeval/</link>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/xcodeeval/</guid>
       <description>We introduce xCodeEval, the largest executable multilingual multitask benchmark to date consisting of 25M document-level coding examples from about 7.5 K unique problems covering up to 17 programming languages with execution-level parallelism.</description>
@@ -41,7 +41,7 @@
     <item>
       <title>Crosslingual Generalization through Multitask Finetuning</title>
       <link>https://sbmaruf.github.io/publication/xmtf/</link>
-      <pubDate>Thu, 03 Nov 2022 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/xmtf/</guid>
       <description>Shows multitask multilingual generalization in language model.</description>
@@ -50,7 +50,7 @@
     <item>
       <title>What Language Model to Train if You Have One Million GPU Hours?</title>
       <link>https://sbmaruf.github.io/publication/llm/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/llm/</guid>
       <description></description>
@@ -68,7 +68,7 @@
     <item>
       <title>PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts</title>
       <link>https://sbmaruf.github.io/publication/promptsource/</link>
-      <pubDate>Wed, 02 Feb 2022 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/promptsource/</guid>
       <description>Over 2,000 prompts for roughly 170 datasets are available through PromptSource framework.</description>
@@ -77,7 +77,7 @@
     <item>
       <title>Multitask Prompted Training Enables Zero-Shot Task Generalization</title>
       <link>https://sbmaruf.github.io/publication/t0pp/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/t0pp/</guid>
       <description>T0 shows zero-shot task generalization on English natural language prompts, outperforming GPT-3 on many tasks, while being 16x smaller!</description>
@@ -86,7 +86,7 @@
     <item>
       <title>Nearest Neighbour Few-Shot Learning for Cross-lingual Classification</title>
       <link>https://sbmaruf.github.io/publication/nn/</link>
-      <pubDate>Thu, 23 Sep 2021 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/nn/</guid>
       <description>We propose a trasductive approach for few shot cross-lingual classification.</description>
@@ -113,7 +113,7 @@
     <item>
       <title>AugVic: Exploiting BiText Vicinity for Low-Resource NMT</title>
       <link>https://sbmaruf.github.io/publication/augvic/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/augvic/</guid>
       <description>We propose AugVic, a data augmentation framework for sequence to sequence model (i.e. NMT) using Language Model.</description>
@@ -122,7 +122,7 @@
     <item>
       <title>UXLA: A Robust Unsupervised Data Augmentation Framework for Zero-Resouce Cross-Lingual NLP</title>
       <link>https://sbmaruf.github.io/publication/uxla/</link>
-      <pubDate>Thu, 30 Apr 2020 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/uxla/</guid>
       <description>We propose UXLA, a novel data augmentation framework for self-supervised learning in zero-resource transfer learning scenarios.</description>
@@ -131,7 +131,7 @@
     <item>
       <title>LNMAP: Departures from Isomorphic Assumption in Bilingual Lexicon Induction Through Non-Linear Mapping in Latent Space</title>
       <link>https://sbmaruf.github.io/publication/lnmap/</link>
-      <pubDate>Tue, 28 Apr 2020 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/lnmap/</guid>
       <description>We propose a novel semi-supervised method to learn cross-lingual word embeddings for BLI.</description>
@@ -149,7 +149,7 @@
     <item>
       <title>Zero-Resource Cross-Lingual Named Entity Recognition</title>
       <link>https://sbmaruf.github.io/publication/cross-lingual-ner/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/cross-lingual-ner/</guid>
       <description>We propose a superior model and training method for zero resource transfer of Cross-lingual Named Entity Recognition.</description>
@@ -176,7 +176,7 @@
     <item>
       <title>Malay-English Neural Machine Translation System.</title>
       <link>https://sbmaruf.github.io/project/mt-system/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/project/mt-system/</guid>
       <description>This is a tool to translate an English sentence into Malay and vice versa.</description>

@@ -6,7 +6,7 @@
     <description>Recent content in Prathyusha Jwalapuram on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Nov 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="https://sbmaruf.github.io/authors/prathyusha-jwalapuram/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Zero-Resource Cross-Lingual Named Entity Recognition</title>
       <link>https://sbmaruf.github.io/publication/cross-lingual-ner/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/cross-lingual-ner/</guid>
       <description>We propose a superior model and training method for zero resource transfer of Cross-lingual Named Entity Recognition.</description>
@@ -23,7 +23,7 @@
     <item>
       <title>A Unified Linear-Time Framework for Sentence-Level Discourse Parsing</title>
       <link>https://sbmaruf.github.io/publication/pointer-net-parser/</link>
-      <pubDate>Wed, 15 May 2019 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/pointer-net-parser/</guid>
       <description></description>

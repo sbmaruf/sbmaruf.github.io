@@ -5,13 +5,13 @@
     <description>Recent content in SBMARUF on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 May 2023 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 29 May 2023 00:00:00 +0300</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets</title>
       <link>https://sbmaruf.github.io/publication/chatgpt/</link>
-      <pubDate>Mon, 29 May 2023 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/chatgpt/</guid>
       <description></description>
@@ -47,7 +47,7 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     <item>
       <title>xCodeEval: A Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval</title>
       <link>https://sbmaruf.github.io/publication/xcodeeval/</link>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/xcodeeval/</guid>
       <description></description>
@@ -56,7 +56,7 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     <item>
       <title>Crosslingual Generalization through Multitask Finetuning</title>
       <link>https://sbmaruf.github.io/publication/xmtf/</link>
-      <pubDate>Thu, 03 Nov 2022 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/xmtf/</guid>
       <description></description>
@@ -65,7 +65,7 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     <item>
       <title>What Language Model to Train if You Have One Million GPU Hours?</title>
       <link>https://sbmaruf.github.io/publication/llm/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/llm/</guid>
       <description></description>
@@ -99,7 +99,7 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     <item>
       <title>PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts</title>
       <link>https://sbmaruf.github.io/publication/promptsource/</link>
-      <pubDate>Wed, 02 Feb 2022 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/promptsource/</guid>
       <description></description>
@@ -108,7 +108,7 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     <item>
       <title>Multitask Prompted Training Enables Zero-Shot Task Generalization</title>
       <link>https://sbmaruf.github.io/publication/t0pp/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/t0pp/</guid>
       <description></description>
@@ -117,7 +117,7 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     <item>
       <title>Nearest Neighbour Few-Shot Learning for Cross-lingual Classification</title>
       <link>https://sbmaruf.github.io/publication/nn/</link>
-      <pubDate>Thu, 23 Sep 2021 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/nn/</guid>
       <description></description>
@@ -160,7 +160,7 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     <item>
       <title>AugVic: Exploiting BiText Vicinity for Low-Resource NMT</title>
       <link>https://sbmaruf.github.io/publication/augvic/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/augvic/</guid>
       <description></description>
@@ -169,7 +169,7 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     <item>
       <title>UXLA: A Robust Unsupervised Data Augmentation Framework for Zero-Resouce Cross-Lingual NLP</title>
       <link>https://sbmaruf.github.io/publication/uxla/</link>
-      <pubDate>Thu, 30 Apr 2020 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/uxla/</guid>
       <description></description>
@@ -178,7 +178,7 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     <item>
       <title>LNMAP: Departures from Isomorphic Assumption in Bilingual Lexicon Induction Through Non-Linear Mapping in Latent Space</title>
       <link>https://sbmaruf.github.io/publication/lnmap/</link>
-      <pubDate>Tue, 28 Apr 2020 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0300</pubDate>
       
       <guid>https://sbmaruf.github.io/publication/lnmap/</guid>
       <description></description>
