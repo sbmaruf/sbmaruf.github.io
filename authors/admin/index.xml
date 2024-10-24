@@ -35,7 +35,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sbmaruf.github.io/author/admin/</guid>
-      <description>I&amp;rsquo;m is a Senior Research Scientist at SDAIA. I obtained my Ph.D. from Nanyang Technological University (NTU) advised by Prof. Dr. Shafiq Joty. My research objective is to develop deep models that have the notion of humanity. I spend a huge amount of time and effort exploring unsupervised training and their potential contribution to the generalizability and distributional shift of the language model (LM).At the core of my work, I investigate distribution shifts between training and inference data and explore how we can address this distributional shift using various methods, such as semi-supervised learning, multitask discrete prompting, data distillation, and model distillation.</description>
+      <description>M Saiful Bari (Maruf) is the Training Lead and one of the Core Maintainers of ALLaM, a sovereign foundational model for English and Arabic language technologies. His research focuses on understanding and advancing large language models, particularly in the areas of scaling, training dynamics, and systematic evaluation of frontier (-&amp;gt; superintelligence) models. His lab investigates these aspects through three primary areas: (1) scaling behaviors and training dynamics of large language models in terms of data and truthfulness, (2) developing robust evaluation methodologies for frontier class (-&amp;gt; superintelligence) models with scalable-oversight, and (3) exploring efficient learning paradigms through transfer learning at scale.</description>
     </item>
     
   </channel>
