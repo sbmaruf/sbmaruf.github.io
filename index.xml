@@ -5,8 +5,35 @@
     <description>Recent content in SBMARUF on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 May 2023 00:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 09:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The ChatGPT moment: The past, current and future (potential) of LLMs</title>
+      <link>https://sbmaruf.github.io/talk/chatgptmoment/</link>
+      <pubDate>Sun, 18 Aug 2024 09:00:00 +0000</pubDate>
+      
+      <guid>https://sbmaruf.github.io/talk/chatgptmoment/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    
+Click on the **Slides** button above to view the built-in slides feature.
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+
+&lt;p&gt;With the release of ChatGPT, there has been a paradigm shift in Generative AI and its applications. Despite this groundbreaking perception, the underlying technology has remained relatively consistent over the past five years. What sets ChatGPT apart is the refined integration of traditional methods with advanced data engineering to optimize human preferences, resulting in a sophisticated tool that has revolutionized the industry. This talk will dive into the technical details and the evolution of Large Language Models (LLMs) over the past 4-5 years. At the end, we will explore the potential for a knowledge explosion facilitated by generative models in the coming years. During the talk, I’ll emphasize the tips and tricks for training truly large LLMs, explain FLOPS per politics and show you the timeline of ChatGPT&amp;rsquo;s development and my experiences as a GPU-poor dancing around the sea of flops. I hope you come scaling your humor like actual Large LLMs.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets</title>
@@ -182,33 +209,6 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
       
       <guid>https://sbmaruf.github.io/publication/lnmap/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>mBART: pretraining seq2seq architecture</title>
-      <link>https://sbmaruf.github.io/talk/mbart/</link>
-      <pubDate>Sat, 25 Apr 2020 11:30:00 +0000</pubDate>
-      
-      <guid>https://sbmaruf.github.io/talk/mbart/</guid>
-      <description>&lt;p&gt;This talk goes though the pretraining objectives of seq2seq architecture. It also discusses, how mBART is different from pretraining of XLM and it&amp;rsquo;s derivatives?&lt;/p&gt;
-
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    
-Click on the **Slides** button above to view the built-in slides feature.
-
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-
-&lt;!-- Slides can be added in a few ways:
-
-- **Create** slides using Academic&#39;s *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
     </item>
     
   </channel>
