@@ -23,7 +23,7 @@
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>https://sbmaruf.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://sbmaruf.github.io/post/getting-started/</guid>
       <description>Create a beautifully simple website or blog in under 10 minutes.</description>
@@ -35,7 +35,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sbmaruf.github.io/author/admin/</guid>
-      <description>M Saiful Bari (Maruf) is the Training Lead and one of the Core Maintainers of ALLaM, a sovereign foundational model for English and Arabic language technologies. His research focuses on understanding and advancing large language models, particularly in the areas of scaling, training dynamics, and systematic evaluation of frontier (-&amp;gt; superintelligence) models. His lab investigates these aspects through three primary areas: (1) scaling behaviors and training dynamics of large language models in terms of data and truthfulness, (2) developing robust evaluation methodologies for frontier class (-&amp;gt; superintelligence) models with scalable-oversight, and (3) exploring efficient learning paradigms through transfer learning at scale.</description>
+      <description>M Saiful Bari (Maruf) is working on Multilingual Capability for Nova Models at Amazon AGI. Earlier before joining Amazon, he was the Training Lead and one of the Core Maintainers of ALLaM, a sovereign foundational model for English and Arabic language technologies. His research focuses on understanding and advancing large language models, particularly in the areas of scaling, training dynamics, and systematic evaluation of frontier (-&amp;gt; superintelligence) models. He investigates these aspects through three primary areas: (1) scaling behaviors and training dynamics of large language models in terms of data and truthfulness, (2) developing robust evaluation methodologies for frontier class (-&amp;gt; superintelligence) models with scalable-oversight, and (3) exploring efficient learning paradigms through transfer learning at scale.</description>
     </item>
     
   </channel>

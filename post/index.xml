@@ -23,7 +23,7 @@
     <item>
       <title>HONORS &amp; AWARDS</title>
       <link>https://sbmaruf.github.io/post/awards/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0300</pubDate>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 -0800</pubDate>
       
       <guid>https://sbmaruf.github.io/post/awards/</guid>
       <description>2024 Received MIT &#34;Innovators Under 35&#34; Award.   2019 NTU Research Scholarship, Fully funded Ph.D. scholarship for 4 years.    2016 6th/100+ in Inter University Programming Contest, NSU Cybernauts National Programming Contest    2016 2nd/100 in Inter University Programming Contest, Daffodill International University ACM ICPC world finals warmup contest 2016    2014 Honorable Mention, Human Expedition on Mars Timeline 2018.    2014 Champion, IUT Computer Programming Contest.</description>
@@ -32,7 +32,7 @@
     <item>
       <title>What&#39;s wrong with LLM Evaluation?: Evaluation is Hard (&amp; also Costly).</title>
       <link>https://sbmaruf.github.io/post/eval/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0300</pubDate>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 -0800</pubDate>
       
       <guid>https://sbmaruf.github.io/post/eval/</guid>
       <description>Language models are trained with millions of dollars, involving very intricate engineering jobs, as well as thousands of hours of manpower and human stresses. However, day by day, the evaluation of language models is becoming so confusing and cumbersome that it becomes almost impossible to confidently say which language model is better at what. In this article, I have tried to sketch out some of my observations and findings, provide some recipes, and conclude with a call for a more rigorous approach to language model evaluation.</description>
@@ -41,7 +41,7 @@
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>https://sbmaruf.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://sbmaruf.github.io/post/getting-started/</guid>
       <description>Create a beautifully simple website or blog in under 10 minutes.</description>
