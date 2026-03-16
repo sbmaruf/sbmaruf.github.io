@@ -280,7 +280,22 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;em&gt;Thanks Zarzis for introducing me to Chomsky Language hierarchy.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Credit: &lt;em&gt;Thanks Zarzis for introducing me to Chomsky Language hierarchy.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+
+&lt;p&gt;If you find this post useful, you can cite it as:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{bari2026chomskycurriculum,
+  title   = {On the Connection of Chomsky Hierarchy of Languages vs Data Curriculum Learning in LLMs},
+  author  = {Bari, M Saiful},
+  year    = {2026},
+  month   = {March},
+  url     = {https://sbmaruf.github.io/post/chomsky/}
+}
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
