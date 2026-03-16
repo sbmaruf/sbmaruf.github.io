@@ -6,10 +6,19 @@
     <description>Recent content in Stella Biderman on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Nov 2022 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2023 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://sbmaruf.github.io/authors/stella-biderman/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BLOOM&#43;1: Adding Language Support to BLOOM for Zero-Shot Prompting</title>
+      <link>https://sbmaruf.github.io/publication/bloom-plus-1/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/bloom-plus-1/</guid>
+      <description>Adding new language support to the BLOOM multilingual language model for zero-shot prompting.</description>
+    </item>
     
     <item>
       <title>Crosslingual Generalization through Multitask Finetuning</title>
@@ -18,6 +27,15 @@
       
       <guid>https://sbmaruf.github.io/publication/xmtf/</guid>
       <description>Shows multitask multilingual generalization in language model.</description>
+    </item>
+    
+    <item>
+      <title>What Language Model to Train if You Have One Million GPU Hours?</title>
+      <link>https://sbmaruf.github.io/publication/what-lm-to-train/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/what-lm-to-train/</guid>
+      <description>Investigating scaling laws and practical guidance for training language models under constrained compute budgets.</description>
     </item>
     
     <item>

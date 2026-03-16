@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>generation on SBMARUF</title>
+    <link>https://sbmaruf.github.io/tags/generation/</link>
+    <description>Recent content in generation on SBMARUF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://sbmaruf.github.io/tags/generation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Amazon Nova 2: Multimodal Reasoning and Generation Models</title>
+      <link>https://sbmaruf.github.io/publication/amazon-nova-2/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/amazon-nova-2/</guid>
+      <description>A family of multimodal reasoning and generation models from Amazon AGI.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,13 +6,139 @@
     <description>Recent content in Tags on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Aug 2024 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="https://sbmaruf.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Deep Learning</title>
+      <title>design</title>
+      <link>https://sbmaruf.github.io/tags/design/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 -0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language-model</title>
+      <link>https://sbmaruf.github.io/tags/language-model/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 -0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/language-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multilingual</title>
+      <link>https://sbmaruf.github.io/tags/multilingual/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 -0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/multilingual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tokenization</title>
+      <link>https://sbmaruf.github.io/tags/tokenization/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 -0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/tokenization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>generation</title>
+      <link>https://sbmaruf.github.io/tags/generation/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multimodal</title>
+      <link>https://sbmaruf.github.io/tags/multimodal/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reasoning</title>
+      <link>https://sbmaruf.github.io/tags/reasoning/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/reasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>benchmark</title>
+      <link>https://sbmaruf.github.io/tags/benchmark/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evaluation</title>
+      <link>https://sbmaruf.github.io/tags/evaluation/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>framework</title>
+      <link>https://sbmaruf.github.io/tags/framework/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>arabic</title>
+      <link>https://sbmaruf.github.io/tags/arabic/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 -0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/arabic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bilingual</title>
+      <link>https://sbmaruf.github.io/tags/bilingual/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 -0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/bilingual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>large-language-model</title>
+      <link>https://sbmaruf.github.io/tags/large-language-model/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 -0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/large-language-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pretraining</title>
+      <link>https://sbmaruf.github.io/tags/pretraining/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 -0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/pretraining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
       <link>https://sbmaruf.github.io/tags/deep-learning/</link>
       <pubDate>Sun, 18 Aug 2024 09:00:00 +0000</pubDate>
       
@@ -21,20 +147,56 @@
     </item>
     
     <item>
-      <title>evaluation</title>
-      <link>https://sbmaruf.github.io/tags/evaluation/</link>
-      <pubDate>Mon, 29 May 2023 00:00:00 -0700</pubDate>
+      <title>survey</title>
+      <link>https://sbmaruf.github.io/tags/survey/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 -0700</pubDate>
       
-      <guid>https://sbmaruf.github.io/tags/evaluation/</guid>
+      <guid>https://sbmaruf.github.io/tags/survey/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>language-model</title>
-      <link>https://sbmaruf.github.io/tags/language-model/</link>
-      <pubDate>Mon, 29 May 2023 00:00:00 -0700</pubDate>
+      <title>bengali</title>
+      <link>https://sbmaruf.github.io/tags/bengali/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 -0700</pubDate>
       
-      <guid>https://sbmaruf.github.io/tags/language-model/</guid>
+      <guid>https://sbmaruf.github.io/tags/bengali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leaderboard</title>
+      <link>https://sbmaruf.github.io/tags/leaderboard/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/leaderboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>low-resource</title>
+      <link>https://sbmaruf.github.io/tags/low-resource/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/low-resource/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thesis</title>
+      <link>https://sbmaruf.github.io/tags/thesis/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transfer-learning</title>
+      <link>https://sbmaruf.github.io/tags/transfer-learning/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/transfer-learning/</guid>
       <description></description>
     </item>
     
@@ -44,6 +206,24 @@
       <pubDate>Mon, 01 May 2023 12:30:00 +0000</pubDate>
       
       <guid>https://sbmaruf.github.io/tags/semi-supervised-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BLOOM</title>
+      <link>https://sbmaruf.github.io/tags/bloom/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/bloom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zero-shot</title>
+      <link>https://sbmaruf.github.io/tags/zero-shot/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/zero-shot/</guid>
       <description></description>
     </item>
     
@@ -62,6 +242,51 @@
       <pubDate>Mon, 06 Mar 2023 00:00:00 -0800</pubDate>
       
       <guid>https://sbmaruf.github.io/tags/programming-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>compute-efficiency</title>
+      <link>https://sbmaruf.github.io/tags/compute-efficiency/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/compute-efficiency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multitask-learning</title>
+      <link>https://sbmaruf.github.io/tags/multitask-learning/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/multitask-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parameter-efficient</title>
+      <link>https://sbmaruf.github.io/tags/parameter-efficient/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/parameter-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prompt-tuning</title>
+      <link>https://sbmaruf.github.io/tags/prompt-tuning/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/prompt-tuning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scaling-laws</title>
+      <link>https://sbmaruf.github.io/tags/scaling-laws/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/tags/scaling-laws/</guid>
       <description></description>
     </item>
     
@@ -152,15 +377,6 @@
       <pubDate>Fri, 21 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://sbmaruf.github.io/tags/regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Academic</title>
-      <link>https://sbmaruf.github.io/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
-      
-      <guid>https://sbmaruf.github.io/tags/academic/</guid>
       <description></description>
     </item>
     

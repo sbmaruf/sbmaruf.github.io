@@ -3,8 +3,566 @@
     
     <url>
     
-      <loc>https://sbmaruf.github.io/tags/deep-learning/</loc>
-      <lastmod>2024-08-18T09:00:00+00:00</lastmod>
+      <loc>https://sbmaruf.github.io/post/chomsky/</loc>
+      <lastmod>2026-03-16T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/post/</loc>
+      <lastmod>2026-03-16T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/</loc>
+      <lastmod>2026-03-16T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/publication_types/1/</loc>
+      <lastmod>2026-01-19T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/</loc>
+      <lastmod>2026-01-19T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/m-saiful-bari/</loc>
+      <lastmod>2026-01-19T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/md-tahmid-rahman-laskar/</loc>
+      <lastmod>2026-01-19T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/mir-tafseer-nayeem/</loc>
+      <lastmod>2026-01-19T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/publication_types/</loc>
+      <lastmod>2026-01-19T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/publication/</loc>
+      <lastmod>2026-01-19T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/sawsan-alqahtani/</loc>
+      <lastmod>2026-01-19T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/publication/tokenizers-core-design/</loc>
+      <lastmod>2026-01-19T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/</loc>
+      <lastmod>2026-01-19T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/tasnim-mohiuddin/</loc>
+      <lastmod>2026-01-19T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/design/</loc>
+      <lastmod>2026-01-19T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/language-model/</loc>
+      <lastmod>2026-01-19T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/multilingual/</loc>
+      <lastmod>2026-01-19T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/tokenization/</loc>
+      <lastmod>2026-01-19T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/publication_types/3/</loc>
+      <lastmod>2025-06-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/aag-intelligence/</loc>
+      <lastmod>2025-06-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/publication/amazon-nova-2/</loc>
+      <lastmod>2025-06-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/generation/</loc>
+      <lastmod>2025-06-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/multimodal/</loc>
+      <lastmod>2025-06-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/reasoning/</loc>
+      <lastmod>2025-06-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/bulent-yener/</loc>
+      <lastmod>2025-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/haidar-khan/</loc>
+      <lastmod>2025-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/hisham-a.-alyahya/</loc>
+      <lastmod>2025-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/yazeed-alnumay/</loc>
+      <lastmod>2025-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/publication/zerosumeval/</loc>
+      <lastmod>2025-05-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/benchmark/</loc>
+      <lastmod>2025-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/evaluation/</loc>
+      <lastmod>2025-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/framework/</loc>
+      <lastmod>2025-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/publication/allam/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/abdalghani-abujabal/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/abdulmohsen-al-thubaity/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/ahmed-abdelali/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/ali-alammari/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/areeb-alowisheq/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/faisal-abdulrahman-mirza/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/ghadah-alabduljabbar/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/hassan-a.-alahmed/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/hisham-abdullah-alyahya/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/jeril-kuriakose/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/majed-alrubaian/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/maryam-al-mansour/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/nora-al-twairesh/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/norah-a.-alzahrani/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/nouf-m.-alotaibi/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/raghad-alkhathran/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/raneem-alnajim/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/saad-amin-hassan/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/salman-alsubaihi/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/shaykhah-z.-alsubaie/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/sultan-alrashed/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/yousef-almushayqih/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/zaki-alawami/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/arabic/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/bilingual/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/large-language-model/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/pretraining/</loc>
+      <lastmod>2025-01-23T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/publication/strr/</loc>
+      <lastmod>2025-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/publication/humanitys-last-exam/</loc>
+      <lastmod>2025-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/long-phan/</loc>
+      <lastmod>2025-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/et-al./</loc>
+      <lastmod>2025-01-01T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -20,24 +578,6 @@
     
     <url>
     
-      <loc>https://sbmaruf.github.io/</loc>
-      <lastmod>2024-08-18T09:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sbmaruf.github.io/tags/</loc>
-      <lastmod>2024-08-18T09:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://sbmaruf.github.io/talk/chatgptmoment/</loc>
       <lastmod>2024-08-18T09:00:00+00:00</lastmod>
     </url>
@@ -46,8 +586,292 @@
     
     <url>
     
-      <loc>https://sbmaruf.github.io/publication_types/1/</loc>
-      <lastmod>2023-05-29T00:00:00-07:00</lastmod>
+      <loc>https://sbmaruf.github.io/tags/deep-learning/</loc>
+      <lastmod>2024-08-18T09:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/publication/llm-eval-survey/</loc>
+      <lastmod>2024-07-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/amran-bhuiyan/</loc>
+      <lastmod>2024-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/chee-wei-tan/</loc>
+      <lastmod>2024-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/enamul-hoque/</loc>
+      <lastmod>2024-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/israt-jahan/</loc>
+      <lastmod>2024-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/jimmy-huang/</loc>
+      <lastmod>2024-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/md-rizwan-parvez/</loc>
+      <lastmod>2024-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/mizanur-rahman/</loc>
+      <lastmod>2024-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/mohammad-abdullah-matin-khan/</loc>
+      <lastmod>2024-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/shafiq-joty/</loc>
+      <lastmod>2024-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/survey/</loc>
+      <lastmod>2024-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/publication/benllm-eval/</loc>
+      <lastmod>2024-05-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/e-hoque/</loc>
+      <lastmod>2024-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/faisal-mirza/</loc>
+      <lastmod>2024-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/m-kabir/</loc>
+      <lastmod>2024-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/ms-bari/</loc>
+      <lastmod>2024-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/ms-islam/</loc>
+      <lastmod>2024-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/mt-nayeem/</loc>
+      <lastmod>2024-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/mtr-laskar/</loc>
+      <lastmod>2024-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/nora-altwairesh/</loc>
+      <lastmod>2024-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/norah-alzahrani/</loc>
+      <lastmod>2024-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/nouf-alotaibi/</loc>
+      <lastmod>2024-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/shaykhah-alsubaie/</loc>
+      <lastmod>2024-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/publication/benchmark-sensitivity/</loc>
+      <lastmod>2024-05-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/yusef-almushaykeh/</loc>
+      <lastmod>2024-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/bengali/</loc>
+      <lastmod>2024-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/leaderboard/</loc>
+      <lastmod>2024-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/low-resource/</loc>
+      <lastmod>2024-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/publication_types/4/</loc>
+      <lastmod>2023-08-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/publication/phd-thesis/</loc>
+      <lastmod>2023-08-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/thesis/</loc>
+      <lastmod>2023-08-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/transfer-learning/</loc>
+      <lastmod>2023-08-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -63,15 +887,6 @@
     
     <url>
     
-      <loc>https://sbmaruf.github.io/authors/</loc>
-      <lastmod>2023-05-29T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://sbmaruf.github.io/authors/jimmy-xiangji-huang/</loc>
       <lastmod>2023-05-29T00:00:00-07:00</lastmod>
       <priority>0</priority>
@@ -81,78 +896,7 @@
     
     <url>
     
-      <loc>https://sbmaruf.github.io/authors/m-saiful-bari/</loc>
-      <lastmod>2023-05-29T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://sbmaruf.github.io/authors/md-amran-hossen-bhuiyan/</loc>
-      <lastmod>2023-05-29T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sbmaruf.github.io/authors/md-tahmid-rahman-laskar/</loc>
-      <lastmod>2023-05-29T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sbmaruf.github.io/authors/mizanur-rahman/</loc>
-      <lastmod>2023-05-29T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sbmaruf.github.io/publication_types/</loc>
-      <lastmod>2023-05-29T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sbmaruf.github.io/publication/</loc>
-      <lastmod>2023-05-29T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sbmaruf.github.io/authors/shafiq-joty/</loc>
-      <lastmod>2023-05-29T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sbmaruf.github.io/tags/evaluation/</loc>
-      <lastmod>2023-05-29T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sbmaruf.github.io/tags/language-model/</loc>
       <lastmod>2023-05-29T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -178,8 +922,8 @@
     
     <url>
     
-      <loc>https://sbmaruf.github.io/authors/md-rizwan-parvez/</loc>
-      <lastmod>2023-03-06T00:00:00-08:00</lastmod>
+      <loc>https://sbmaruf.github.io/authors/ahmed-baruwa/</loc>
+      <lastmod>2023-05-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -187,8 +931,133 @@
     
     <url>
     
-      <loc>https://sbmaruf.github.io/authors/mohammad-abdullah-matin-khan/</loc>
-      <lastmod>2023-03-06T00:00:00-08:00</lastmod>
+      <loc>https://sbmaruf.github.io/authors/alham-fikri-aji/</loc>
+      <lastmod>2023-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/bloom/</loc>
+      <lastmod>2023-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/publication/bloom-plus-1/</loc>
+      <lastmod>2023-05-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/david-ifeoluwa-adelani/</loc>
+      <lastmod>2023-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/dragomir-radev/</loc>
+      <lastmod>2023-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/genta-indra-winata/</loc>
+      <lastmod>2023-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/hailey-schoelkopf/</loc>
+      <lastmod>2023-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/jungo-kasai/</loc>
+      <lastmod>2023-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/khalid-almubarak/</loc>
+      <lastmod>2023-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/lintang-sutawika/</loc>
+      <lastmod>2023-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/niklas-muennighoff/</loc>
+      <lastmod>2023-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/stella-biderman/</loc>
+      <lastmod>2023-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/vassilina-nikoulina/</loc>
+      <lastmod>2023-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/zheng-xin-yong/</loc>
+      <lastmod>2023-05-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/zero-shot/</loc>
+      <lastmod>2023-05-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -258,15 +1127,6 @@
     
     <url>
     
-      <loc>https://sbmaruf.github.io/authors/alham-fikri-aji/</loc>
-      <lastmod>2022-11-03T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://sbmaruf.github.io/authors/colin-raffel/</loc>
       <lastmod>2022-11-03T00:00:00-07:00</lastmod>
       <priority>0</priority>
@@ -284,52 +1144,7 @@
     
     <url>
     
-      <loc>https://sbmaruf.github.io/authors/dragomir-radev/</loc>
-      <lastmod>2022-11-03T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://sbmaruf.github.io/authors/edward-raff/</loc>
-      <lastmod>2022-11-03T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sbmaruf.github.io/authors/hailey-schoelkopf/</loc>
-      <lastmod>2022-11-03T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sbmaruf.github.io/authors/khalid-almubarak/</loc>
-      <lastmod>2022-11-03T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sbmaruf.github.io/authors/lintang-sutawika/</loc>
-      <lastmod>2022-11-03T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sbmaruf.github.io/authors/niklas-muennighoff/</loc>
       <lastmod>2022-11-03T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -348,15 +1163,6 @@
     <url>
     
       <loc>https://sbmaruf.github.io/authors/sheng-shen/</loc>
-      <lastmod>2022-11-03T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sbmaruf.github.io/authors/stella-biderman/</loc>
       <lastmod>2022-11-03T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -401,8 +1207,8 @@
     
     <url>
     
-      <loc>https://sbmaruf.github.io/authors/zheng-xin-yong/</loc>
-      <lastmod>2022-11-03T00:00:00-07:00</lastmod>
+      <loc>https://sbmaruf.github.io/authors/aston-zhang/</loc>
+      <lastmod>2022-10-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -411,7 +1217,7 @@
     <url>
     
       <loc>https://sbmaruf.github.io/authors/daniel-hesslow/</loc>
-      <lastmod>2022-03-01T00:00:00-08:00</lastmod>
+      <lastmod>2022-10-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -420,7 +1226,7 @@
     <url>
     
       <loc>https://sbmaruf.github.io/authors/hady-elsahar/</loc>
-      <lastmod>2022-03-01T00:00:00-08:00</lastmod>
+      <lastmod>2022-10-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -429,7 +1235,7 @@
     <url>
     
       <loc>https://sbmaruf.github.io/authors/iz-beltagy/</loc>
-      <lastmod>2022-03-01T00:00:00-08:00</lastmod>
+      <lastmod>2022-10-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -438,7 +1244,7 @@
     <url>
     
       <loc>https://sbmaruf.github.io/authors/jaesung-tae/</loc>
-      <lastmod>2022-03-01T00:00:00-08:00</lastmod>
+      <lastmod>2022-10-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -447,7 +1253,7 @@
     <url>
     
       <loc>https://sbmaruf.github.io/authors/jason-phang/</loc>
-      <lastmod>2022-03-01T00:00:00-08:00</lastmod>
+      <lastmod>2022-10-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -456,7 +1262,7 @@
     <url>
     
       <loc>https://sbmaruf.github.io/authors/julien-launay/</loc>
-      <lastmod>2022-03-01T00:00:00-08:00</lastmod>
+      <lastmod>2022-10-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -465,7 +1271,16 @@
     <url>
     
       <loc>https://sbmaruf.github.io/authors/lucile-saulnier/</loc>
-      <lastmod>2022-03-01T00:00:00-08:00</lastmod>
+      <lastmod>2022-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/mu-li/</loc>
+      <lastmod>2022-10-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -474,7 +1289,24 @@
     <url>
     
       <loc>https://sbmaruf.github.io/authors/ofir-press/</loc>
-      <lastmod>2022-03-01T00:00:00-08:00</lastmod>
+      <lastmod>2022-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/publication/spt/</loc>
+      <lastmod>2022-10-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/shuai-zheng/</loc>
+      <lastmod>2022-10-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -483,7 +1315,7 @@
     <url>
     
       <loc>https://sbmaruf.github.io/authors/stas-bekman/</loc>
-      <lastmod>2022-03-01T00:00:00-08:00</lastmod>
+      <lastmod>2022-10-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -492,7 +1324,78 @@
     <url>
     
       <loc>https://sbmaruf.github.io/authors/victor-sanh/</loc>
-      <lastmod>2022-03-01T00:00:00-08:00</lastmod>
+      <lastmod>2022-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/publication/what-lm-to-train/</loc>
+      <lastmod>2022-10-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/xingjian-shi/</loc>
+      <lastmod>2022-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/yi-zhu/</loc>
+      <lastmod>2022-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/compute-efficiency/</loc>
+      <lastmod>2022-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/multitask-learning/</loc>
+      <lastmod>2022-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/parameter-efficient/</loc>
+      <lastmod>2022-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/prompt-tuning/</loc>
+      <lastmod>2022-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/tags/scaling-laws/</loc>
+      <lastmod>2022-10-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -915,15 +1818,6 @@
     
     <url>
     
-      <loc>https://sbmaruf.github.io/authors/tasnim-mohiuddin/</loc>
-      <lastmod>2021-05-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://sbmaruf.github.io/publication/uxla/</loc>
       <lastmod>2020-04-30T00:00:00-07:00</lastmod>
     </url>
@@ -1034,31 +1928,6 @@
     
     <url>
     
-      <loc>https://sbmaruf.github.io/post/jupyter/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sbmaruf.github.io/post/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sbmaruf.github.io/authors/admin/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://sbmaruf.github.io/tags/algorithms/</loc>
       <lastmod>2019-01-30T00:00:00-08:00</lastmod>
       <priority>0</priority>
@@ -1094,14 +1963,6 @@
     <url>
     
       <loc>https://sbmaruf.github.io/project/mt-system/</loc>
-      <lastmod>2019-01-25T00:00:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sbmaruf.github.io/post/eval/</loc>
       <lastmod>2019-01-25T00:00:00-08:00</lastmod>
     </url>
     
@@ -1201,23 +2062,6 @@
     
     <url>
     
-      <loc>https://sbmaruf.github.io/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sbmaruf.github.io/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://sbmaruf.github.io/author/admin/</loc>
     </url>
     
@@ -1250,6 +2094,14 @@
     <url>
     
       <loc>https://sbmaruf.github.io/slides/example-slides/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sbmaruf.github.io/authors/admin/</loc>
+      <priority>0</priority>
     </url>
     
   

@@ -6,10 +6,64 @@
     <description>Recent content in evaluation on SBMARUF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 May 2023 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://sbmaruf.github.io/tags/evaluation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ZeroSumEval: An Extensible Framework for Scaling LLM Evaluation with Inter-Model Competition</title>
+      <link>https://sbmaruf.github.io/publication/zerosumeval/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/zerosumeval/</guid>
+      <description>An extensible framework for scaling LLM evaluation through inter-model competition.</description>
+    </item>
+    
+    <item>
+      <title>Beyond Fertility: STRR as a Metric for Multilingual Tokenization Evaluation</title>
+      <link>https://sbmaruf.github.io/publication/strr/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 -0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/strr/</guid>
+      <description>A new metric for multilingual tokenization evaluation that goes beyond fertility-based measures.</description>
+    </item>
+    
+    <item>
+      <title>Humanity&#39;s Last Exam</title>
+      <link>https://sbmaruf.github.io/publication/humanitys-last-exam/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 -0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/humanitys-last-exam/</guid>
+      <description>A large-scale collaborative benchmark designed to test the limits of frontier AI systems.</description>
+    </item>
+    
+    <item>
+      <title>A Systematic Survey and Critical Review on Evaluating Large Language Models: Challenges, Limitations, and Recommendations</title>
+      <link>https://sbmaruf.github.io/publication/llm-eval-survey/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/llm-eval-survey/</guid>
+      <description>A systematic survey and critical review on evaluating large language models with recommendations for more rigorous evaluation.</description>
+    </item>
+    
+    <item>
+      <title>BenLLM-Eval: A Comprehensive Evaluation into the Potentials and Pitfalls of Large Language Models on Bengali NLP</title>
+      <link>https://sbmaruf.github.io/publication/benllm-eval/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/benllm-eval/</guid>
+      <description>Comprehensive evaluation of LLMs on Bengali NLP, examining potentials and pitfalls for low-resource language processing.</description>
+    </item>
+    
+    <item>
+      <title>When Benchmarks are Targets: Revealing the Sensitivity of Large Language Model Leaderboards</title>
+      <link>https://sbmaruf.github.io/publication/benchmark-sensitivity/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/benchmark-sensitivity/</guid>
+      <description>Revealing the sensitivity of LLM leaderboards to evaluation choices, showing that rankings can shift significantly with minor methodological changes.</description>
+    </item>
     
     <item>
       <title>A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets</title>

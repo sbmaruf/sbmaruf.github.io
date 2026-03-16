@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>compute-efficiency on SBMARUF</title>
+    <link>https://sbmaruf.github.io/tags/compute-efficiency/</link>
+    <description>Recent content in compute-efficiency on SBMARUF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://sbmaruf.github.io/tags/compute-efficiency/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What Language Model to Train if You Have One Million GPU Hours?</title>
+      <link>https://sbmaruf.github.io/publication/what-lm-to-train/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/what-lm-to-train/</guid>
+      <description>Investigating scaling laws and practical guidance for training language models under constrained compute budgets.</description>
+    </item>
+    
+  </channel>
+</rss>

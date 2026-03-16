@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multilingual on SBMARUF</title>
+    <link>https://sbmaruf.github.io/tags/multilingual/</link>
+    <description>Recent content in multilingual on SBMARUF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Jan 2026 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://sbmaruf.github.io/tags/multilingual/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stop Taking Tokenizers for Granted: They Are Core Design Decisions in Large Language Models</title>
+      <link>https://sbmaruf.github.io/publication/tokenizers-core-design/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 -0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/tokenizers-core-design/</guid>
+      <description>Reframing tokenization as a core modeling decision in LLMs rather than a preprocessing step, arguing for context-aware tokenizer and model co-design.</description>
+    </item>
+    
+    <item>
+      <title>Beyond Fertility: STRR as a Metric for Multilingual Tokenization Evaluation</title>
+      <link>https://sbmaruf.github.io/publication/strr/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 -0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/strr/</guid>
+      <description>A new metric for multilingual tokenization evaluation that goes beyond fertility-based measures.</description>
+    </item>
+    
+    <item>
+      <title>BenLLM-Eval: A Comprehensive Evaluation into the Potentials and Pitfalls of Large Language Models on Bengali NLP</title>
+      <link>https://sbmaruf.github.io/publication/benllm-eval/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/benllm-eval/</guid>
+      <description>Comprehensive evaluation of LLMs on Bengali NLP, examining potentials and pitfalls for low-resource language processing.</description>
+    </item>
+    
+    <item>
+      <title>Transfer Learning for Language Model Adaptation</title>
+      <link>https://sbmaruf.github.io/publication/phd-thesis/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/phd-thesis/</guid>
+      <description>PhD thesis on transfer learning for language model adaptation, covering multilingual generalization and scalable training dynamics.</description>
+    </item>
+    
+    <item>
+      <title>BLOOM&#43;1: Adding Language Support to BLOOM for Zero-Shot Prompting</title>
+      <link>https://sbmaruf.github.io/publication/bloom-plus-1/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/bloom-plus-1/</guid>
+      <description>Adding new language support to the BLOOM multilingual language model for zero-shot prompting.</description>
+    </item>
+    
+  </channel>
+</rss>
