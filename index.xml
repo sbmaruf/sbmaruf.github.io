@@ -1,24 +1,111 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SBMARUF on SBMARUF</title><link>https://sbmaruf.github.io/</link><description>Recent content in SBMARUF on SBMARUF</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 16 Mar 2026 00:00:00 -0700</lastBuildDate><atom:link href="/" rel="self" type="application/rss+xml"/><item><title>On the Connection of Chomsky Hierarchy of Languages vs Data Curriculum Learning in LLMs</title><link>https://sbmaruf.github.io/post/chomsky/</link><pubDate>Mon, 16 Mar 2026 00:00:00 -0700</pubDate><guid>https://sbmaruf.github.io/post/chomsky/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SBMARUF on SBMARUF</title>
+    <link>https://sbmaruf.github.io/</link>
+    <description>Recent content in SBMARUF on SBMARUF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Apr 2026 00:00:00 -0700</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Pandemic of Agents</title>
+      <link>https://sbmaruf.github.io/post/pandemic-agent/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/post/pandemic-agent/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://sbmaruf.github.io/img/banner-pandemic-agent.png&#34; alt=&#34;The pandemic of Agents&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I woke up today with this weird dream, just annotating my &lt;code&gt;dreams&lt;/code&gt; and &lt;code&gt;halluciantions&lt;/code&gt; for a future agents to consume.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;People often compare AI with industrial revolutions. I think that is a huge underestimate of what AI will bring to the table. On November 30, 2022, when ChatGPT was released, I told everyone that this was an AGI-enabling distribution. What I mean by AGI-enabling is that the intelligence is probably ready, but human understanding of intelligence (a.k.a. mechanistic interpretability) and systems engineering is lacking. While many people still debate whether we are at this turning point or not, if you look at the human-written definitions on &lt;a href=&#34;https://en.wikipedia.org/wiki/Artificial_general_intelligence&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt;, you’ll see a lot of tests that, undoubtedly, we can imagine the current generation of systems will solve. I’ve always liked the &lt;code&gt;Coffee test&lt;/code&gt; in SFT era. because every time we got a new model, I would run the query, &lt;code&gt;How to make a cup of coffee?&lt;/code&gt;, and it would reply in a different way. I’d see the test as one for a &lt;code&gt;deaf&lt;/code&gt; and &lt;code&gt;blind&lt;/code&gt; system, and as a measurement of intelligence purely from the system itself.&lt;/p&gt;
+
+&lt;p&gt;Fast-forward three years, and now I think I should write it down again.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The current harness systems are an ASI-enabling distribution. All the Millennium Problems will be solved in five years. The next Millennium Problem is AI safety, and potentially &lt;strong&gt;NOT&lt;/strong&gt; an AI-complete problem.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Before I move to my scary random thoughts, let me just focus on the main part of this argument that AI safety is &lt;em&gt;NOT&lt;/em&gt; an AI-complete problem. It means, capability may race ahead very quickly, and major scientific discoveries may solve silently. But I think (or just want to believe 🤞), the safety is a different tractable problem and a &lt;code&gt;GPT_{n-1}&lt;/code&gt; should be able to align (and consistentyly solve the safety problems of) &lt;code&gt;GPT_{n}&lt;/code&gt;. If you don&amp;rsquo;t believe in &lt;a href=&#34;https://arxiv.org/abs/2312.09390&#34; target=&#34;_blank&#34;&gt;weak to strong generalization&lt;/a&gt;, different story, but personally I don&amp;rsquo;t see a world where humanity survibes without &lt;code&gt;GPT_{n-1}&lt;/code&gt;. That being said like &lt;a href=&#34;https://www.youtube.com/watch?v=om2lIWXLLN4&#34; target=&#34;_blank&#34;&gt;Dario said&lt;/a&gt;, I believe someday &lt;a href=&#34;https://colah.github.io/about.html&#34; target=&#34;_blank&#34;&gt;Chris Olah&lt;/a&gt; and also &lt;strong&gt;Ilya Sutskever&lt;/strong&gt; deservely will get a noble prize for it (just realized this is an extremely random non-contextual argument).&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I&amp;rsquo;m not here to convince anyone of anything. Just writing stuff that I believe.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;But moving back to my sad, joyful life, what does this mean for an ASI-enabling distribution existing in a world where people still think we are far from AGI? When I go outside and talk with people in different jobs, I cannot hide the thought in my mind: Ah! The current intelligence abstraction already covers this job. It is only a matter of time before some weekend-warrior, cocky college — or even school — dropout raises VC money to automate these jobs with the Claude/OpenAI API. I do not see a society that will survive without proper AI governance, and I am sure it will happen. But what I fear is the &lt;code&gt;Bloodbath&lt;/code&gt;. I would assume a slight societal shift in capitalism would do the trick, but on the way there, governance will have to figure out a lot of human alignment with &lt;code&gt;Capitalism&lt;/code&gt;. Slow governance is itself a safety process for society, since we should not rush into decisions, but what should we expect in the presence of an ASI-enabling distribution? I have not found any societal correction or change in governance that did not cost too much blood and sweat (1873, 1929, 1930, 1987, etc.).&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The real danger may not be that intelligence outruns control, but that capability outruns governance.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Now let’s talk about one of the fundamental issues: anthropomorphization. This is not a silly conceptual issue anymore. Think about it: people build something using AI tools, and when it fails, they say, &lt;code&gt;Ah! AI made the mistake, I didn&#39;t&lt;/code&gt;. For me, this is anthropomorphizing, giving AI a persona rather than treating it as a tool. The biggest indicators of ASI right now are the coding agents, especially the harness systems. You’ll hear people saying, &lt;code&gt;Ah! I wrote the code with claude code, and it made the mistake&lt;/code&gt;. I  had a lot of debates about this with many different people. For someone who always loved to debate, nowadays I give up too easily, since everything will be replaced by AI and we are going into a great depression anyway. Ow! Now I’m becoming an AI doomer. I do not have a catchy story to prove that I’m not, LMAO!&lt;/p&gt;
+
+&lt;p&gt;Another core high-stakes issue we are going to face is the &lt;a href=&#34;https://www.youtube.com/watch?v=kBdfcR-8hEY&amp;amp;t=1s&#34; target=&#34;_blank&#34;&gt;trolly problem&lt;/a&gt;
+. I personally believe that I donated all the trolley problem prompts during the ChatGPT research release. The trolley problem becomes easy for a chat system, however, it remains extremely hard when you break the neutral phase and enable agentic application. An agent/agentic system can now has to be utilitarian or deontological. Even if the agent cites entire &lt;code&gt;Michael Sandel&lt;/code&gt; monologues every time a return-confirmation prompt needs to be reviewed by a human, things will break for sure, not even arguing about the correctness of &lt;a href=&#34;https://arxiv.org/pdf/2401.05566&#34; target=&#34;_blank&#34;&gt;sleeper agents&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Now let me come back to my dream. I was sleeping and woke up from a dream that I was vibe coding while dreaming. Scary, no? Then I jokingly thought about a &lt;a href=&#34;https://www.youtube.com/watch?v=pLIcgWF6ig4&#34; target=&#34;_blank&#34;&gt;Neuralink patient playing CS2&lt;/a&gt;. What if a Neuralink patient starts vibe coding? That is easier, no?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- --&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;As we move ahead in the new era, the straw hat groups will be defined by more fundamental traits: determination, hard work, fearlessness, stubbornness, unbreakability, and, more importantly, &lt;code&gt;kindness&lt;/code&gt;. And yes, you’ll LIVE.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{bari2026chomskycurriculum,
+  title   = {The pandemic of Agents},
+  author  = {Bari, M Saiful},
+  year    = {2026},
+  month   = {April},
+  url     = {https://sbmaruf.github.io/post/pandemic-agent/}
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the Connection of Chomsky Hierarchy of Languages vs Data Curriculum Learning in LLMs</title>
+      <link>https://sbmaruf.github.io/post/chomsky/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/post/chomsky/</guid>
+      <description>
+
 &lt;blockquote&gt;
 &lt;p&gt;I have been making hot takes and hypothesizing about so many things to my friends, and to some extent I have always been too lazy to put together a proper writeup. Hopefully in the coming days, I will turn more of these scattered ideas into structured posts, not because every hypothesis will be right, but because writing forces clarity, and clarity is the first step toward testing whether an idea actually holds up. And if any of these ideas spark something for you (agreement, disagreement, or a better hypothesis entirely), I would love to hear it. The best conversations start with a half-baked idea and a willing interlocutor. Feel free to email me your hot takes.&lt;/p&gt;
 &lt;/blockquote&gt;
+
 &lt;!-- --&gt;
+
 &lt;blockquote&gt;
 &lt;p&gt;I have not done any experiment on it nor I have compute to do it.&lt;/p&gt;
 &lt;/blockquote&gt;
+
 &lt;h2 id=&#34;should-we-show-a-language-model-the-navier-stokes-equations-before-it-learns-to-add-fractions&#34;&gt;Should we show a language model the Navier-Stokes equations before it learns to add fractions?&lt;/h2&gt;
+
 &lt;p&gt;&lt;strong&gt;TLDR Hypothesis:&lt;/strong&gt; LLM training should follow the Chomsky hierarchy as a curriculum, progressing from simple pattern recognition (Type 3) up to undecidable complexity (Type 0+). Each phase builds on the previous one, mirroring how humans learn: first speak, then memorize, then calculate, then reason, then develop judgment.&lt;/p&gt;
+
 &lt;p&gt;&lt;em&gt;As per GPT-3 Figure 1.1, stochastic gradient descent trains on IID data, learning horizontally across the distribution and at sufficient scale, a meta-loop (&lt;a href=&#34;https://gwern.net/scaling-hypothesis&#34; target=&#34;_blank&#34;&gt;The Magic! aka scaling hypothesis&lt;/a&gt;) emerges that enables vertical extraction (non IID knowledge) via in-context learning. However, I argue/hypothesize that imposing curriculum order is a better prior than relying on scale alone to discover structure.&lt;/em&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;img src=&#34;https://sbmaruf.github.io/img/meta_gpt3.png&#34; alt=&#34;Language model meta-learning&#34; /&gt;
 &lt;em&gt;Figure 1: Language model meta-learning (from GPT-3 paper).&lt;/em&gt;&lt;/p&gt;
+
 &lt;h2 id=&#34;the-bitter-lesson&#34;&gt;The Bitter Lesson&lt;/h2&gt;
+
 &lt;p&gt;&lt;em&gt;The Bitter Lesson of data mix would say: stop hand-crafting curricula, just scale IID data and let the model figure it out. And to be fair, scaling IID is a strong baseline. The Scaling Hypothesis of GPT-3 argued that unordered data at sufficient scale lets structure emerge for free via in-context learning. But I hypothesize that ordering data along the Chomsky ladder could outperform this strong baseline. Teams spend months hand-tuning data ratios (40% web, 15% code, 10% math) searching for the perfect blend. But perhaps the same data, shown in the right order, would outperform/improve any static mix. The structure isn&amp;rsquo;t ONLY in what you show, it&amp;rsquo;s ALSO in when you show it.&lt;/em&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;img src=&#34;https://sbmaruf.github.io/img/chomsky.png&#34; alt=&#34;Chomsky hierarchy of languages&#34; /&gt;
 &lt;em&gt;Figure 2: Chomsky hierarchy of languages. &lt;a href=&#34;https://www.geeksforgeeks.org/theory-of-computation/chomsky-hierarchy-in-theory-of-computation/&#34; target=&#34;_blank&#34;&gt;Source&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The Chomsky type labels below are used hypothetically to describe the &lt;strong&gt;complexity of training data&lt;/strong&gt; in the context of LLM curriculum learning, not as formal grammar-theoretic classifications. For instance, a list of primes is not literally a regular language (Type 3), but it represents the kind of shallow pattern-level data a model would encounter in the earliest training phase. The analogy maps data complexity to the Chomsky ladder, not the formal language class itself.&lt;/p&gt;
 &lt;/blockquote&gt;
+
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Type 3&lt;/strong&gt;: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29&amp;hellip;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Type 2&lt;/strong&gt;: A prime number is a number greater than 1 divisible only by 1 and itself, like 7.&lt;/li&gt;
@@ -26,44 +113,58 @@
 &lt;li&gt;&lt;strong&gt;Type 0&lt;/strong&gt;: There are infinitely many primes: if you multiply all known primes and add 1, the result must have a new prime factor, contradiction.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Type 0+&lt;/strong&gt;: Are there infinitely many twin primes like (11, 13) and (17, 19)?&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Hypothesis:&lt;/em&gt;&lt;/strong&gt; The Chomsky hierarchy ranks languages from simple patterns (Type 3) to undecidable complexity (Type 0 and beyond), and LLM training should follow this same ladder. You start with massive raw text so the model learns basic grammar and syntax (Type 3 -&amp;gt; 2), then introduce factual and context-dependent knowledge (Type 2 -&amp;gt; 1), then teach formal mathematical and symbolic manipulation (Type 1), then train explicit multi-step reasoning chains that approach general computation (Type 0), and finally polish with hard tasks and human preference alignment (Type 0 and beyond). Each phase depends on the one before it because you cannot reason about what you do not know, and you cannot know what you cannot linguistically represent. This mirrors how humans learn: first we speak, then we memorize, then we calculate, then we reason, then we develop judgment. The hierarchy is not just a classification of grammars but a blueprint for building intelligence layer by layer.&lt;/p&gt;
+
 &lt;h2 id=&#34;proposed-hypothetical-order&#34;&gt;Proposed Hypothetical Order&lt;/h2&gt;
+
 &lt;h3 id=&#34;phase-1-language-foundation-type-3-2&#34;&gt;Phase 1: Language Foundation (Type 3 -&amp;gt; 2)&lt;/h3&gt;
+
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;What:&lt;/strong&gt; Teach the model how language &lt;em&gt;looks&lt;/em&gt; and &lt;em&gt;flows&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Data:&lt;/strong&gt; Raw web text, books, GitHub code, forums&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Learns:&lt;/strong&gt; Grammar, syntax, nesting, token patterns, code structure&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Analogy:&lt;/strong&gt; A child learning to speak before understanding the world&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;h3 id=&#34;phase-2-knowledge-grounding-type-2-1&#34;&gt;Phase 2: Knowledge Grounding (Type 2 -&amp;gt; 1)&lt;/h3&gt;
+
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;What:&lt;/strong&gt; Teach the model what is &lt;em&gt;true&lt;/em&gt; about the world&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Data:&lt;/strong&gt; Wikipedia, encyclopedias, textbooks, factual QA, API docs&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Learns:&lt;/strong&gt; Facts, relationships, conditional truths, type systems&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Analogy:&lt;/strong&gt; A student reading encyclopedias and memorizing facts&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;h3 id=&#34;phase-3-structured-math-formal-operations-type-2-1&#34;&gt;Phase 3: Structured Math &amp;amp; Formal Operations (Type 2 -&amp;gt; 1)&lt;/h3&gt;
+
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;What:&lt;/strong&gt; Teach the model to &lt;em&gt;manipulate&lt;/em&gt; symbols and solve formally&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Data:&lt;/strong&gt; Math textbooks, solved problems, LeetCode, algorithm books&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Learns:&lt;/strong&gt; Arithmetic, algebra, proofs, complexity analysis, data structures&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Analogy:&lt;/strong&gt; A student learning to solve equations and write algorithms&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;h3 id=&#34;phase-4-reasoning-chains-type-1-0&#34;&gt;Phase 4: Reasoning Chains (Type 1 -&amp;gt; 0)&lt;/h3&gt;
+
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;What:&lt;/strong&gt; Teach the model to &lt;em&gt;chain&lt;/em&gt; skills into multi-step thinking&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Data:&lt;/strong&gt; Chain-of-thought demos, debug traces, logic puzzles, planning tasks&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Learns:&lt;/strong&gt; Step-by-step reasoning, planning, self-correction, backtracking&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Analogy:&lt;/strong&gt; A student learning to show their work and think out loud&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;h3 id=&#34;phase-5-hard-tasks-alignment-type-0&#34;&gt;Phase 5: Hard Tasks &amp;amp; Alignment (Type 0+)&lt;/h3&gt;
+
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;What:&lt;/strong&gt; Push boundaries and align with human judgment&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Data:&lt;/strong&gt; RLHF/DPO preference pairs, olympiad math, competitive programming, adversarial problems&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Learns:&lt;/strong&gt; Expert-level problem solving, safety, helpfulness, nuance&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Analogy:&lt;/strong&gt; A professional being mentored by senior experts&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;h2 id=&#34;detailed-breakdown-by-category&#34;&gt;Detailed Breakdown by Category&lt;/h2&gt;
+
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -73,6 +174,7 @@
 &lt;th&gt;What It Looks Like&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
+
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;Knowledge&lt;/td&gt;
@@ -80,114 +182,133 @@
 &lt;td&gt;Type 3&lt;/td&gt;
 &lt;td&gt;Surface co-occurrences: Einstein near physics near Germany&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
 &lt;td&gt;Knowledge&lt;/td&gt;
 &lt;td&gt;Phase 2&lt;/td&gt;
 &lt;td&gt;Type 2&lt;/td&gt;
 &lt;td&gt;Structured facts: Einstein developed general relativity in 1915&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
 &lt;td&gt;Knowledge&lt;/td&gt;
 &lt;td&gt;Phase 3&lt;/td&gt;
 &lt;td&gt;Type 1&lt;/td&gt;
 &lt;td&gt;Formal definitions: A prime number is divisible only by 1 and itself&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
 &lt;td&gt;Knowledge&lt;/td&gt;
 &lt;td&gt;Phase 4&lt;/td&gt;
 &lt;td&gt;Type 0&lt;/td&gt;
 &lt;td&gt;Chained inference: Because X is true and Y follows from X, therefore Z&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
 &lt;td&gt;Knowledge&lt;/td&gt;
 &lt;td&gt;Phase 5&lt;/td&gt;
 &lt;td&gt;Type 0+&lt;/td&gt;
 &lt;td&gt;Nuanced judgment: This is debated, here are both sides with evidence&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
 &lt;td&gt;Math&lt;/td&gt;
 &lt;td&gt;Phase 1&lt;/td&gt;
 &lt;td&gt;Type 3&lt;/td&gt;
 &lt;td&gt;Number formats and digit patterns and LaTeX tokens appearing in text&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
 &lt;td&gt;Math&lt;/td&gt;
 &lt;td&gt;Phase 2&lt;/td&gt;
 &lt;td&gt;Type 2&lt;/td&gt;
 &lt;td&gt;The Pythagorean theorem states a² + b² = c² (fact, not operation)&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
 &lt;td&gt;Math&lt;/td&gt;
 &lt;td&gt;Phase 3&lt;/td&gt;
 &lt;td&gt;Type 1&lt;/td&gt;
 &lt;td&gt;Solve 2x + 3 = 7, so x = 2 (step-by-step manipulation)&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
 &lt;td&gt;Math&lt;/td&gt;
 &lt;td&gt;Phase 4&lt;/td&gt;
 &lt;td&gt;Type 0&lt;/td&gt;
 &lt;td&gt;Prove by induction: step 1 is base case, step 2 is inductive step, QED&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
 &lt;td&gt;Math&lt;/td&gt;
 &lt;td&gt;Phase 5&lt;/td&gt;
 &lt;td&gt;Type 0+&lt;/td&gt;
 &lt;td&gt;Olympiad problems requiring creative insight and novel technique combinations&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
 &lt;td&gt;Reasoning&lt;/td&gt;
 &lt;td&gt;Phase 1&lt;/td&gt;
 &lt;td&gt;Type 3&lt;/td&gt;
 &lt;td&gt;Implicit logical patterns in text: &amp;ldquo;because&amp;rdquo;, &amp;ldquo;therefore&amp;rdquo;, &amp;ldquo;however&amp;rdquo;&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
 &lt;td&gt;Reasoning&lt;/td&gt;
 &lt;td&gt;Phase 2&lt;/td&gt;
 &lt;td&gt;Type 2&lt;/td&gt;
 &lt;td&gt;Simple if-then: If it rains, the ground is wet&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
 &lt;td&gt;Reasoning&lt;/td&gt;
 &lt;td&gt;Phase 3&lt;/td&gt;
 &lt;td&gt;Type 1&lt;/td&gt;
 &lt;td&gt;Formal logic: Given A -&amp;gt; B and B -&amp;gt; C, conclude A -&amp;gt; C&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
 &lt;td&gt;Reasoning&lt;/td&gt;
 &lt;td&gt;Phase 4&lt;/td&gt;
 &lt;td&gt;Type 0&lt;/td&gt;
 &lt;td&gt;Full CoT: Let me think step by step… first… then… therefore…&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
 &lt;td&gt;Reasoning&lt;/td&gt;
 &lt;td&gt;Phase 5&lt;/td&gt;
 &lt;td&gt;Type 0+&lt;/td&gt;
 &lt;td&gt;Novel analogies, creative problem framing, and handling ambiguity&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
 &lt;td&gt;Code&lt;/td&gt;
 &lt;td&gt;Phase 1&lt;/td&gt;
 &lt;td&gt;Type 3&lt;/td&gt;
 &lt;td&gt;Raw code: &lt;code&gt;def hello(): print(&amp;quot;hi&amp;quot;)&lt;/code&gt;, learning syntax and patterns&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
 &lt;td&gt;Code&lt;/td&gt;
 &lt;td&gt;Phase 2&lt;/td&gt;
 &lt;td&gt;Type 2&lt;/td&gt;
 &lt;td&gt;Docs and types: &amp;ldquo;This function takes a sorted list and returns the index&amp;rdquo;&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
 &lt;td&gt;Code&lt;/td&gt;
 &lt;td&gt;Phase 3&lt;/td&gt;
 &lt;td&gt;Type 1&lt;/td&gt;
 &lt;td&gt;Algorithms: Binary search runs in O(log n), here is why and how&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
 &lt;td&gt;Code&lt;/td&gt;
 &lt;td&gt;Phase 4&lt;/td&gt;
 &lt;td&gt;Type 0&lt;/td&gt;
 &lt;td&gt;Plan -&amp;gt; code -&amp;gt; test -&amp;gt; debug: First design the API, then implement&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
 &lt;td&gt;Code&lt;/td&gt;
 &lt;td&gt;Phase 5&lt;/td&gt;
@@ -196,7 +317,9 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+
 &lt;h2 id=&#34;hypothesized-order&#34;&gt;Hypothesized Order&lt;/h2&gt;
+
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Phase 1&lt;/strong&gt;: Learn to &lt;strong&gt;SPEAK&lt;/strong&gt; (form)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Phase 2&lt;/strong&gt;: Learn to &lt;strong&gt;KNOW&lt;/strong&gt; (content)&lt;/li&gt;
@@ -204,42 +327,188 @@
 &lt;li&gt;&lt;strong&gt;Phase 4&lt;/strong&gt;: Learn to &lt;strong&gt;REASON&lt;/strong&gt; (process)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Phase 5&lt;/strong&gt;: Learn to &lt;strong&gt;JUDGE&lt;/strong&gt; (wisdom)&lt;/li&gt;
 &lt;/ol&gt;
+
 &lt;hr /&gt;
+
 &lt;h2 id=&#34;the-irony&#34;&gt;The Irony&lt;/h2&gt;
+
 &lt;p&gt;Chomsky famously argued that &lt;em&gt;&amp;ldquo;Colorless green ideas sleep furiously&amp;rdquo;&lt;/em&gt; is grammatical but meaningless, and &lt;em&gt;&amp;ldquo;Furiously sleep ideas green colorless&amp;rdquo;&lt;/em&gt; is neither grammatical nor meaningful, yet both are equally improbable statistically. His point: &lt;strong&gt;grammaticality cannot be identified with statistical probability&lt;/strong&gt;. A sentence can be perfectly grammatical yet have zero probability in any corpus. He spent decades insisting that language is a rule-based faculty of the mind, not a pattern in data, and that statistical models of language are not models of language at all.&lt;/p&gt;
+
 &lt;p&gt;And here I am, using the man&amp;rsquo;s own hierarchy as a training schedule for the very statistical models he spent his career rejecting. Sorry, Professor. 🫡&lt;/p&gt;
+
 &lt;hr /&gt;
+
 &lt;p&gt;Credit: &lt;em&gt;Thanks Zarzis for introducing me to Chomsky Language hierarchy.&lt;/em&gt;&lt;/p&gt;
+
 &lt;hr /&gt;
+
 &lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+
 &lt;p&gt;If you find this post useful, you can cite it as:&lt;/p&gt;
+
 &lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{bari2026chomskycurriculum,
-title = {On the Connection of Chomsky Hierarchy of Languages vs Data Curriculum Learning in LLMs},
-author = {Bari, M Saiful},
-year = {2026},
-month = {March},
-url = {https://sbmaruf.github.io/post/chomsky/}
+  title   = {On the Connection of Chomsky Hierarchy of Languages vs Data Curriculum Learning in LLMs},
+  author  = {Bari, M Saiful},
+  year    = {2026},
+  month   = {March},
+  url     = {https://sbmaruf.github.io/post/chomsky/}
 }
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>Stop Taking Tokenizers for Granted: They Are Core Design Decisions in Large Language Models</title><link>https://sbmaruf.github.io/publication/tokenizers-core-design/</link><pubDate>Mon, 19 Jan 2026 00:00:00 -0800</pubDate><guid>https://sbmaruf.github.io/publication/tokenizers-core-design/</guid><description/></item><item><title>Amazon Nova 2: Multimodal Reasoning and Generation Models</title><link>https://sbmaruf.github.io/publication/amazon-nova-2/</link><pubDate>Sun, 01 Jun 2025 00:00:00 -0700</pubDate><guid>https://sbmaruf.github.io/publication/amazon-nova-2/</guid><description/></item><item><title>ZeroSumEval: An Extensible Framework for Scaling LLM Evaluation with Inter-Model Competition</title><link>https://sbmaruf.github.io/publication/zerosumeval/</link><pubDate>Thu, 01 May 2025 00:00:00 -0700</pubDate><guid>https://sbmaruf.github.io/publication/zerosumeval/</guid><description/></item><item><title>ALLaM: Large Language Models for Arabic and English</title><link>https://sbmaruf.github.io/publication/allam/</link><pubDate>Thu, 23 Jan 2025 00:00:00 -0800</pubDate><guid>https://sbmaruf.github.io/publication/allam/</guid><description/></item><item><title>Beyond Fertility: STRR as a Metric for Multilingual Tokenization Evaluation</title><link>https://sbmaruf.github.io/publication/strr/</link><pubDate>Wed, 01 Jan 2025 00:00:00 -0800</pubDate><guid>https://sbmaruf.github.io/publication/strr/</guid><description/></item><item><title>Humanity&#39;s Last Exam</title><link>https://sbmaruf.github.io/publication/humanitys-last-exam/</link><pubDate>Wed, 01 Jan 2025 00:00:00 -0800</pubDate><guid>https://sbmaruf.github.io/publication/humanitys-last-exam/</guid><description/></item><item><title>The ChatGPT moment: The past, current and future (potential) of LLMs</title><link>https://sbmaruf.github.io/talk/chatgptmoment/</link><pubDate>Sun, 18 Aug 2024 09:00:00 +0000</pubDate><guid>https://sbmaruf.github.io/talk/chatgptmoment/</guid><description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-&lt;div&gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stop Taking Tokenizers for Granted: They Are Core Design Decisions in Large Language Models</title>
+      <link>https://sbmaruf.github.io/publication/tokenizers-core-design/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 -0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/tokenizers-core-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amazon Nova 2: Multimodal Reasoning and Generation Models</title>
+      <link>https://sbmaruf.github.io/publication/amazon-nova-2/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/amazon-nova-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ZeroSumEval: An Extensible Framework for Scaling LLM Evaluation with Inter-Model Competition</title>
+      <link>https://sbmaruf.github.io/publication/zerosumeval/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/zerosumeval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ALLaM: Large Language Models for Arabic and English</title>
+      <link>https://sbmaruf.github.io/publication/allam/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 -0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/allam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Fertility: STRR as a Metric for Multilingual Tokenization Evaluation</title>
+      <link>https://sbmaruf.github.io/publication/strr/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 -0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/strr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humanity&#39;s Last Exam</title>
+      <link>https://sbmaruf.github.io/publication/humanitys-last-exam/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 -0800</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/humanitys-last-exam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ChatGPT moment: The past, current and future (potential) of LLMs</title>
+      <link>https://sbmaruf.github.io/talk/chatgptmoment/</link>
+      <pubDate>Sun, 18 Aug 2024 09:00:00 +0000</pubDate>
+      
+      <guid>https://sbmaruf.github.io/talk/chatgptmoment/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    
 Click on the **Slides** button above to view the built-in slides feature.
+
+  &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;
---&gt;
+ --&gt;
+
 &lt;!-- Slides can be added in a few ways:
+
 - **Create** slides using Academic&#39;s *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
 Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-&lt;p&gt;With the release of ChatGPT, there has been a paradigm shift in Generative AI and its applications. Despite this groundbreaking perception, the underlying technology has remained relatively consistent over the past five years. What sets ChatGPT apart is the refined integration of traditional methods with advanced data engineering to optimize human preferences, resulting in a sophisticated tool that has revolutionized the industry. This talk will dive into the technical details and the evolution of Large Language Models (LLMs) over the past 4-5 years. At the end, we will explore the potential for a knowledge explosion facilitated by generative models in the coming years. During the talk, I’ll emphasize the tips and tricks for training truly large LLMs, explain FLOPS per politics and show you the timeline of ChatGPT&amp;rsquo;s development and my experiences as a GPU-poor dancing around the sea of flops. I hope you come scaling your humor like actual Large LLMs.&lt;/p&gt;</description></item><item><title>A Systematic Survey and Critical Review on Evaluating Large Language Models: Challenges, Limitations, and Recommendations</title><link>https://sbmaruf.github.io/publication/llm-eval-survey/</link><pubDate>Mon, 01 Jul 2024 00:00:00 -0700</pubDate><guid>https://sbmaruf.github.io/publication/llm-eval-survey/</guid><description/></item><item><title>BenLLM-Eval: A Comprehensive Evaluation into the Potentials and Pitfalls of Large Language Models on Bengali NLP</title><link>https://sbmaruf.github.io/publication/benllm-eval/</link><pubDate>Wed, 01 May 2024 00:00:00 -0700</pubDate><guid>https://sbmaruf.github.io/publication/benllm-eval/</guid><description/></item><item><title>When Benchmarks are Targets: Revealing the Sensitivity of Large Language Model Leaderboards</title><link>https://sbmaruf.github.io/publication/benchmark-sensitivity/</link><pubDate>Wed, 01 May 2024 00:00:00 -0700</pubDate><guid>https://sbmaruf.github.io/publication/benchmark-sensitivity/</guid><description/></item><item><title>Transfer Learning for Language Model Adaptation</title><link>https://sbmaruf.github.io/publication/phd-thesis/</link><pubDate>Tue, 01 Aug 2023 00:00:00 -0700</pubDate><guid>https://sbmaruf.github.io/publication/phd-thesis/</guid><description/></item><item><title>A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets</title><link>https://sbmaruf.github.io/publication/chatgpt/</link><pubDate>Mon, 29 May 2023 00:00:00 -0700</pubDate><guid>https://sbmaruf.github.io/publication/chatgpt/</guid><description/></item><item><title>Pathways to semi-(un)supervised* NLP Brain</title><link>https://sbmaruf.github.io/talk/pathways-llm/</link><pubDate>Mon, 01 May 2023 12:30:00 +0000</pubDate><guid>https://sbmaruf.github.io/talk/pathways-llm/</guid><description>&lt;p&gt;This talk discusses the evolving field of transfer learning, from LSTMs to large language models, and shows new direction on the transferability in large language model.&lt;/p&gt;
+
+&lt;p&gt;With the release of ChatGPT, there has been a paradigm shift in Generative AI and its applications. Despite this groundbreaking perception, the underlying technology has remained relatively consistent over the past five years. What sets ChatGPT apart is the refined integration of traditional methods with advanced data engineering to optimize human preferences, resulting in a sophisticated tool that has revolutionized the industry. This talk will dive into the technical details and the evolution of Large Language Models (LLMs) over the past 4-5 years. At the end, we will explore the potential for a knowledge explosion facilitated by generative models in the coming years. During the talk, I’ll emphasize the tips and tricks for training truly large LLMs, explain FLOPS per politics and show you the timeline of ChatGPT&amp;rsquo;s development and my experiences as a GPU-poor dancing around the sea of flops. I hope you come scaling your humor like actual Large LLMs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Systematic Survey and Critical Review on Evaluating Large Language Models: Challenges, Limitations, and Recommendations</title>
+      <link>https://sbmaruf.github.io/publication/llm-eval-survey/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/llm-eval-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BenLLM-Eval: A Comprehensive Evaluation into the Potentials and Pitfalls of Large Language Models on Bengali NLP</title>
+      <link>https://sbmaruf.github.io/publication/benllm-eval/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/benllm-eval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Benchmarks are Targets: Revealing the Sensitivity of Large Language Model Leaderboards</title>
+      <link>https://sbmaruf.github.io/publication/benchmark-sensitivity/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/benchmark-sensitivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer Learning for Language Model Adaptation</title>
+      <link>https://sbmaruf.github.io/publication/phd-thesis/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/phd-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets</title>
+      <link>https://sbmaruf.github.io/publication/chatgpt/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://sbmaruf.github.io/publication/chatgpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pathways to semi-(un)supervised* NLP Brain</title>
+      <link>https://sbmaruf.github.io/talk/pathways-llm/</link>
+      <pubDate>Mon, 01 May 2023 12:30:00 +0000</pubDate>
+      
+      <guid>https://sbmaruf.github.io/talk/pathways-llm/</guid>
+      <description>&lt;p&gt;This talk discusses the evolving field of transfer learning, from LSTMs to large language models, and  shows new direction on the transferability in large language model.&lt;/p&gt;
+
 &lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-&lt;div&gt;
+  &lt;div&gt;
+    
 Click on the **Slides** button above to view the built-in slides feature.
+
+  &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;
---&gt;
+ --&gt;
+
 &lt;!-- Slides can be added in a few ways:
+
 - **Create** slides using Academic&#39;s *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;</description></item><item><title>BLOOM&#43;1: Adding Language Support to BLOOM for Zero-Shot Prompting</title><link>https://sbmaruf.github.io/publication/bloom-plus-1/</link><pubDate>Mon, 01 May 2023 00:00:00 -0700</pubDate><guid>https://sbmaruf.github.io/publication/bloom-plus-1/</guid><description/></item></channel></rss>
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
